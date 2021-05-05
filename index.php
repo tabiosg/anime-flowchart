@@ -1,55 +1,43 @@
 <?php
     define ("TITLE", "Anime Flowchart");
-    include('includes/header.php');
+    define ("HEADER_ONE", "Home");
+    define ("HEADER_TWO", "Find your new favorite anime!");
+    include('src/includes/header.php');
 ?>
 
-<div class="below-top-bar">
-    Discover new anime to watch!
+<div class="list-group list-group-horizontal" style="margin-top: 250px">
+    <button id="restart-button" class="list-group-item list-group-item-action list-group-item-secondary">Restart</button>
+    <button id="previous-question-button" class="list-group-item list-group-item-action list-group-item-secondary">Go back</button>
+    <hr class="my-3">
 </div>
 
-<header>
-    <h1>The Ultimate Anime Recommendation Flowchart 2021</h1>
-    <h2>Meant for beginners and veterans alike!</h2>
-</header>
-
-<div id="flowchart-container" class="custom-container">
-    <div id="state" class="state-square"><p>Please select an answer!</p></div>
-    <div id="prompt-square" class="prompt-square-shape"><p>Are you looking at shows or movies?</p></div>
-    <button id="restart-button" class="rewind-button">Restart</button>
-    <button id="previous-question-button" class="rewind-button">Go back</button>
-
-    <button id="choice-one" class="choice-button"></button>
-    <button id="choice-two" class="choice-button"></button>
-    <button id="choice-three" class="choice-button"></button>
-    <button id="choice-four" class="choice-button"></button>
-    <button id="choice-five" class="choice-button"></button>
-    <button id="choice-six" class="choice-button"></button>
-    <button id="choice-seven" class="choice-button"></button>
-    <button id="choice-eight" class="choice-button"></button>
-
+<div class="empty-space">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<div id="final-anime-recommendation">
-    <div id="final-intro">
-        The anime we recommend for you is: <br />
-        <div id="final-anime-title">Erased</div>
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-3 text-center font-weight-bold" id="prompt-square">Are you looking at shows or movies?</h1>
     </div>
 </div>
 
-<div id="final-details">
-    <img src="images/characters/erased.png" id="final-main-character" class="dot" />
-    <img src="images/posters/erased.jpg" id="final-poster" />
-    <div id="final-description">
-        <p id="final-description-p">Description</p>
-    </div>
+<div class="list-group list-group-horizontal">
+    <button id="choice-one" type="button" class="list-group-item list-group-item-action list-group-item-primary"></button>
+    <button id="choice-two" type="button" class="list-group-item list-group-item-action list-group-item-primary"></button>
+    <button id="choice-three" type="button" class="list-group-item list-group-item-action list-group-item-primary"></button>
+    <button id="choice-four" type="button" class="list-group-item list-group-item-action list-group-item-primary"></button>
+</div>
+<div class="list-group list-group-horizontal">
+    <button id="choice-five" type="button" class="list-group-item list-group-item-action list-group-item-primary"></button>
+    <button id="choice-six" type="button" class="list-group-item list-group-item-action list-group-item-primary"></button>
+    <button id="choice-seven" type="button" class="list-group-item list-group-item-action list-group-item-primary"></button>
+    <button id="choice-eight" type="button" class="list-group-item list-group-item-action list-group-item-primary"></button>
+</div>
 
-    <div id="final-genres">Genres</div>
 
-    <div id="final-mal-page"><a href="">MAL Page</a></div>
-
-    <div id="final-restart">Click to restart.</div>
+<div id="flowchart-container" class="custom-container" style="margin-top: 400px">
 </div>
 
 <?php
-    include('includes/footer.php');
+    include('src/includes/footer.php');
 ?>
