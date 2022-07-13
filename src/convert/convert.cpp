@@ -78,7 +78,7 @@ public:
 		std::ofstream fout("../js/raw_data.js");
 
 		std::ostringstream ending;
-		ending << "let map = new Map();" << std::endl;
+		ending << "var map = new Map();" << std::endl;
 
 		for (int imp = 14; imp >= 0; --imp)
 		{
@@ -87,7 +87,7 @@ public:
 			{
 				std::ostringstream singleNodeStream;
 
-				singleNodeStream << "let " << formatEntry(entry["subject_str"]) << " = [" << std::endl;
+				singleNodeStream << "var " << formatEntry(entry["subject_str"]) << " = [" << std::endl;
 				singleNodeStream << "    \"" << entry["subject_str"] << "\"," << std::endl;
 				if (entry["opt_1"] == "")
 				{
