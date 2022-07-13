@@ -4,27 +4,16 @@ import { map } from './raw_data.js';
 
 var backButton = document.getElementById("previous-question-button");
 
-//var final_part_one = document.getElementById("final-anime-recommendation");
-//var final_part_two = document.getElementById("final-details");
-
-var choice_button_one = document.getElementById("choice-one");
-var choice_button_two = document.getElementById("choice-two");
-var choice_button_three = document.getElementById("choice-three");
-var choice_button_four = document.getElementById("choice-four");
-var choice_button_five = document.getElementById("choice-five");
-var choice_button_six = document.getElementById("choice-six");
-var choice_button_seven = document.getElementById("choice-seven");
-var choice_button_eight = document.getElementById("choice-eight");
 
 var choice_button_array = [
-    choice_button_one,
-    choice_button_two,
-    choice_button_three,
-    choice_button_four,
-    choice_button_five,
-    choice_button_six,
-    choice_button_seven,
-    choice_button_eight
+    document.getElementById("choice-one"),
+    document.getElementById("choice-two"),
+    document.getElementById("choice-three"),
+    document.getElementById("choice-four"),
+    document.getElementById("choice-five"),
+    document.getElementById("choice-six"),
+    document.getElementById("choice-seven"),
+    document.getElementById("choice-eight")
 ]
 
 var prompt = document.getElementById("prompt-square");
@@ -75,107 +64,22 @@ function SetUpButtons() {
 SetUpButtons();
 
 /*Buttons*/
-function change_first_button() {
-    var button_component_pressed = choice_button_one;
-    var answer_selected_string = button_component_pressed.innerHTML;
-    var the_array_next = map.get(answer_selected_string);
-    var change_prompt = the_array_next[1];
-    history.push(prompt.innerHTML);
-    prompt.innerHTML = the_array_next[0];
-    SetUpButtons();
-    prompt.innerHTML = change_prompt;
+var change_button_array = Array.apply(null, Array(8)).map(function () {})
+
+for (var i = 0; i < change_button_array.size(); ++i) {
+    change_button_array[i] = function() {
+        var button_component_pressed = choice_button_array[i];
+        var answer_selected_string = button_component_pressed.innerHTML;
+        var the_array_next = map.get(answer_selected_string);
+        var change_prompt = the_array_next[1];
+        history.push(prompt.innerHTML);
+        prompt.innerHTML = the_array_next[0];
+        SetUpButtons();
+        prompt.innerHTML = change_prompt;
+    }
 }
 
-choice_button_one.onclick = function () { change_first_button(); };
-
-function change_second_button() {
-    var button_component_pressed = choice_button_two;
-    var answer_selected_string = button_component_pressed.innerHTML;
-    var the_array_next = map.get(answer_selected_string);
-    var change_prompt = the_array_next[1];
-    history.push(prompt.innerHTML);
-    prompt.innerHTML = the_array_next[0];
-    SetUpButtons();
-    prompt.innerHTML = change_prompt;
+for (var i = 0; i < choice_button_array.size(); ++i) {
+    choice_button_array[i].onclick = function () { change_button_array[i](); };
 }
-
-choice_button_two.onclick = function () { change_second_button(); };
-
-function change_third_button() {
-    var button_component_pressed = choice_button_three;
-    var answer_selected_string = button_component_pressed.innerHTML;
-    var the_array_next = map.get(answer_selected_string);
-    var change_prompt = the_array_next[1];
-    history.push(prompt.innerHTML);
-    prompt.innerHTML = the_array_next[0];
-    SetUpButtons();
-    prompt.innerHTML = change_prompt;
-}
-
-choice_button_three.onclick = function () { change_third_button(); };
-
-function change_four_button() {
-    var button_component_pressed = choice_button_four;
-    var answer_selected_string = button_component_pressed.innerHTML;
-    var the_array_next = map.get(answer_selected_string);
-    var change_prompt = the_array_next[1];
-    history.push(prompt.innerHTML);
-    prompt.innerHTML = the_array_next[0];
-    SetUpButtons();
-    prompt.innerHTML = change_prompt;
-}
-
-choice_button_four.onclick = function () { change_four_button(); };
-
-function change_fifth_button() {
-    var button_component_pressed = choice_button_five;
-    var answer_selected_string = button_component_pressed.innerHTML;
-    var the_array_next = map.get(answer_selected_string);
-    var change_prompt = the_array_next[1];
-    history.push(prompt.innerHTML);
-    prompt.innerHTML = the_array_next[0];
-    SetUpButtons();
-    prompt.innerHTML = change_prompt;
-}
-
-choice_button_five.onclick = function () { change_fifth_button(); };
-
-function change_sixth_button() {
-    var button_component_pressed = choice_button_six;
-    var answer_selected_string = button_component_pressed.innerHTML;
-    var the_array_next = map.get(answer_selected_string);
-    var change_prompt = the_array_next[1];
-    history.push(prompt.innerHTML);
-    prompt.innerHTML = the_array_next[0];
-    SetUpButtons();
-    prompt.innerHTML = change_prompt;
-}
-
-choice_button_six.onclick = function () { change_sixth_button(); };
-
-function change_seventh_button() {
-    var button_component_pressed = choice_button_seven;
-    var answer_selected_string = button_component_pressed.innerHTML;
-    var the_array_next = map.get(answer_selected_string);
-    var change_prompt = the_array_next[1];
-    history.push(prompt.innerHTML);
-    prompt.innerHTML = the_array_next[0];
-    SetUpButtons();
-    prompt.innerHTML = change_prompt;
-}
-
-choice_button_seven.onclick = function () { change_seventh_button(); };
-
-function change_eight_button() {
-    var button_component_pressed = choice_button_eight;
-    var answer_selected_string = button_component_pressed.innerHTML;
-    var the_array_next = map.get(answer_selected_string);
-    var change_prompt = the_array_next[1];
-    history.push(prompt.innerHTML);
-    prompt.innerHTML = the_array_next[0];
-    SetUpButtons();
-    prompt.innerHTML = change_prompt;
-}
-
-choice_button_eight.onclick = function () { change_eight_button(); };
 
