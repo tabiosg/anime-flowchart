@@ -57,8 +57,10 @@ SetUpButtons();
 
 /*Buttons*/
 
-for (var i = 0; i < choiceButtonArray.length; ++i) {
-    choiceButtonArray[i].onclick = function() {
+var changeButtonArray = Array.apply(null, Array(8)).map(function () {})
+
+for (var i = 0; i < changeButtonArray.length; ++i) {
+    changeButtonArray[i] = function() {
         var buttonComponentPressed = choiceButtonArray[i];
         var answerSelectedString = buttonComponentPressed.innerHTML;
         var theArrayNext = map.get(answerSelectedString);
@@ -67,6 +69,9 @@ for (var i = 0; i < choiceButtonArray.length; ++i) {
         prompt.innerHTML = theArrayNext[0];
         SetUpButtons();
         prompt.innerHTML = changePrompt;
-    };
+    }
 }
 
+for (var i = 0; i < choiceButtonArray.length; ++i) {
+    choiceButtonArray[i].onclick = function () { changeButtonArray[i](); };
+}
