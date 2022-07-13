@@ -75,7 +75,7 @@ for (var i = 0; i < changeButtonArray.length(); ++i) {
     }
 }
 
-for (var i = 0; i < choiceButtonArray.size(); ++i) {
+for (var i = 0; i < choiceButtonArray.length(); ++i) {
     choiceButtonArray[i].onclick = function () { changeButtonArray[i](); };
 }
 
