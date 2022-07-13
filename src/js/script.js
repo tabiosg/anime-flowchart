@@ -61,7 +61,12 @@ var changeButtonArray = Array.apply(null, Array(8)).map(function () {})
 
 for (var i = 0; i < changeButtonArray.length; ++i) {
     changeButtonArray[i] = function() {
-        var buttonComponentPressed = choiceButtonArray[i];
+        console.log("below is i")
+        console.log(i)
+        var j = i;
+        console.log("below is j")
+        console.log(j)
+        var buttonComponentPressed = choiceButtonArray[j];
         var answerSelectedString = buttonComponentPressed.innerHTML;
         var theArrayNext = map.get(answerSelectedString);
         var changePrompt = theArrayNext[1];
@@ -73,5 +78,5 @@ for (var i = 0; i < changeButtonArray.length; ++i) {
 }
 
 for (var i = 0; i < choiceButtonArray.length; ++i) {
-    choiceButtonArray[i].onclick = changeButtonArray[i];
+    choiceButtonArray[i].onclick = changeButtonArray[i]();
 }
