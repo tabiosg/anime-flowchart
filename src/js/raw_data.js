@@ -1,1075 +1,1075 @@
-var __centimeters_per_second = [
+let __centimeters_per_second = [
     "5 Centimeters per Second",
     "Go scroll down to learn more about 5 Centimeters per Second",
 ]
-var a_place_further_than_the_universe = [
+let a_place_further_than_the_universe = [
     "A Place Further than the Universe",
     "Go scroll down to learn more about A Place Further than the Universe",
 ]
-var a_silent_voice = [
+let a_silent_voice = [
     "A Silent Voice",
     "Go scroll down to learn more about A Silent Voice",
 ]
-var a_whisker_away = [
+let a_whisker_away = [
     "A Whisker Away",
     "Go scroll down to learn more about A Whisker Away",
 ]
-var akira = [
+let akira = [
     "Akira",
     "Go scroll down to learn more about Akira",
 ]
-var amagi_brilliant_park = [
+let amagi_brilliant_park = [
     "Amagi Brilliant Park",
     "Go scroll down to learn more about Amagi Brilliant Park",
 ]
-var angel_beats = [
+let angel_beats = [
     "Angel Beats",
     "Go scroll down to learn more about Angel Beats",
 ]
-var anohana = [
+let anohana = [
     "AnoHana",
     "Go scroll down to learn more about AnoHana",
 ]
-var another = [
+let another = [
     "Another",
     "Go scroll down to learn more about Another",
 ]
-var aria = [
+let aria = [
     "Aria",
     "Go scroll down to learn more about Aria",
 ]
-var ascendance_of_a_bookworm = [
+let ascendance_of_a_bookworm = [
     "Ascendance of a Bookworm",
     "Go scroll down to learn more about Ascendance of a Bookworm",
 ]
-var asobi_asobase = [
+let asobi_asobase = [
     "Asobi Asobase",
     "Go scroll down to learn more about Asobi Asobase",
 ]
-var assassination_classroom = [
+let assassination_classroom = [
     "Assassination Classroom",
     "Go scroll down to learn more about Assassination Classroom",
 ]
-var attack_on_titan = [
+let attack_on_titan = [
     "Attack on Titan",
     "Go scroll down to learn more about Attack on Titan",
 ]
-var baby_steps = [
+let baby_steps = [
     "Baby Steps",
     "Go scroll down to learn more about Baby Steps",
 ]
-var baccano_ = [
+let baccano_ = [
     "Baccano!",
     "Go scroll down to learn more about Baccano!",
 ]
-var bakemonogatari = [
+let bakemonogatari = [
     "Bakemonogatari",
     "Go scroll down to learn more about Bakemonogatari",
 ]
-var bakuman = [
+let bakuman = [
     "Bakuman",
     "Go scroll down to learn more about Bakuman",
 ]
-var banana_fish = [
+let banana_fish = [
     "Banana Fish",
     "Go scroll down to learn more about Banana Fish",
 ]
-var beastars = [
+let beastars = [
     "Beastars",
     "Go scroll down to learn more about Beastars",
 ]
-var berserk_______ = [
+let berserk_______ = [
     "Berserk (1997)",
     "Go scroll down to learn more about Berserk (1997)",
 ]
-var black_clover = [
+let black_clover = [
     "Black Clover",
     "Go scroll down to learn more about Black Clover",
 ]
-var black_lagoon = [
+let black_lagoon = [
     "Black Lagoon",
     "Go scroll down to learn more about Black Lagoon",
 ]
-var bleach = [
+let bleach = [
     "Bleach",
     "Go scroll down to learn more about Bleach",
 ]
-var bloom_into_you = [
+let bloom_into_you = [
     "Bloom Into You",
     "Go scroll down to learn more about Bloom Into You",
 ]
-var bunny_girl_senpai = [
+let bunny_girl_senpai = [
     "Bunny Girl Senpai",
     "Go scroll down to learn more about Bunny Girl Senpai",
 ]
-var castle_in_the_sky = [
+let castle_in_the_sky = [
     "Castle in the Sky",
     "Go scroll down to learn more about Castle in the Sky",
 ]
-var cells_at_work_ = [
+let cells_at_work_ = [
     "Cells at Work!",
     "Go scroll down to learn more about Cells at Work!",
 ]
-var chihayafuru = [
+let chihayafuru = [
     "Chihayafuru",
     "Go scroll down to learn more about Chihayafuru",
 ]
-var children_who_chase_lost_voices = [
+let children_who_chase_lost_voices = [
     "Children who Chase Lost Voices",
     "Go scroll down to learn more about Children who Chase Lost Voices",
 ]
-var clannad = [
+let clannad = [
     "Clannad",
     "Go scroll down to learn more about Clannad",
 ]
-var code_geass = [
+let code_geass = [
     "Code Geass",
     "Go scroll down to learn more about Code Geass",
 ]
-var colorful___the_motion_picture = [
+let colorful___the_motion_picture = [
     "Colorful - The Motion Picture",
     "Go scroll down to learn more about Colorful - The Motion Picture",
 ]
-var comic_girls = [
+let comic_girls = [
     "Comic Girls",
     "Go scroll down to learn more about Comic Girls",
 ]
-var cowboy_bebop = [
+let cowboy_bebop = [
     "Cowboy Bebop",
     "Go scroll down to learn more about Cowboy Bebop",
 ]
-var cross_game = [
+let cross_game = [
     "Cross Game",
     "Go scroll down to learn more about Cross Game",
 ]
-var dagashi_kashi = [
+let dagashi_kashi = [
     "Dagashi Kashi",
     "Go scroll down to learn more about Dagashi Kashi",
 ]
-var daily_lives_of_high_school_boys = [
+let daily_lives_of_high_school_boys = [
     "Daily Lives of High School Boys",
     "Go scroll down to learn more about Daily Lives of High School Boys",
 ]
-var danganronpa = [
+let danganronpa = [
     "Danganronpa",
     "Go scroll down to learn more about Danganronpa",
 ]
-var darling_in_the_franxx = [
+let darling_in_the_franxx = [
     "Darling in the Franxx",
     "Go scroll down to learn more about Darling in the Franxx",
 ]
-var deadman_wonderland = [
+let deadman_wonderland = [
     "Deadman Wonderland",
     "Go scroll down to learn more about Deadman Wonderland",
 ]
-var death_note = [
+let death_note = [
     "Death Note",
     "Go scroll down to learn more about Death Note",
 ]
-var death_parade = [
+let death_parade = [
     "Death Parade",
     "Go scroll down to learn more about Death Parade",
 ]
-var demon_slayer = [
+let demon_slayer = [
     "Demon Slayer",
     "Go scroll down to learn more about Demon Slayer",
 ]
-var devilman__crybaby = [
+let devilman__crybaby = [
     "Devilman: Crybaby",
     "Go scroll down to learn more about Devilman: Crybaby",
 ]
-var dr__stone = [
+let dr__stone = [
     "Dr. Stone",
     "Go scroll down to learn more about Dr. Stone",
 ]
-var dragon_ball = [
+let dragon_ball = [
     "Dragon Ball",
     "Go scroll down to learn more about Dragon Ball",
 ]
-var erased = [
+let erased = [
     "Erased",
     "Go scroll down to learn more about Erased",
 ]
-var expelled_from_paradise = [
+let expelled_from_paradise = [
     "Expelled from Paradise",
     "Go scroll down to learn more about Expelled from Paradise",
 ]
-var eyeshield___ = [
+let eyeshield___ = [
     "Eyeshield 21",
     "Go scroll down to learn more about Eyeshield 21",
 ]
-var fairy_tail = [
+let fairy_tail = [
     "Fairy Tail",
     "Go scroll down to learn more about Fairy Tail",
 ]
-var fate_zero = [
+let fate_zero = [
     "Fate/Zero",
     "Go scroll down to learn more about Fate/Zero",
 ]
-var flying_witch = [
+let flying_witch = [
     "Flying Witch",
     "Go scroll down to learn more about Flying Witch",
 ]
-var food_wars_ = [
+let food_wars_ = [
     "Food Wars!",
     "Go scroll down to learn more about Food Wars!",
 ]
-var free_ = [
+let free_ = [
     "Free!",
     "Go scroll down to learn more about Free!",
 ]
-var fullmetal_alchemist__brotherhood = [
+let fullmetal_alchemist__brotherhood = [
     "Fullmetal Alchemist: Brotherhood",
     "Go scroll down to learn more about Fullmetal Alchemist: Brotherhood",
 ]
-var future_diary = [
+let future_diary = [
     "Future Diary",
     "Go scroll down to learn more about Future Diary",
 ]
-var gabriel_dropout = [
+let gabriel_dropout = [
     "Gabriel Dropout",
     "Go scroll down to learn more about Gabriel Dropout",
 ]
-var ghost_in_the_shell_movie = [
+let ghost_in_the_shell_movie = [
     "Ghost in the Shell Movie",
     "Go scroll down to learn more about Ghost in the Shell Movie",
 ]
-var ghost_in_the_shell__sac = [
+let ghost_in_the_shell__sac = [
     "Ghost in the Shell: SAC",
     "Go scroll down to learn more about Ghost in the Shell: SAC",
 ]
-var gintama = [
+let gintama = [
     "Gintama",
     "Go scroll down to learn more about Gintama",
 ]
-var girls_und_panzer = [
+let girls_und_panzer = [
     "Girls und Panzer",
     "Go scroll down to learn more about Girls und Panzer",
 ]
-var girls__last_tour = [
+let girls__last_tour = [
     "Girls' Last Tour",
     "Go scroll down to learn more about Girls' Last Tour",
 ]
-var god_of_high_school = [
+let god_of_high_school = [
     "God of High School",
     "Go scroll down to learn more about God of High School",
 ]
-var grand_blue = [
+let grand_blue = [
     "Grand Blue",
     "Go scroll down to learn more about Grand Blue",
 ]
-var grave_of_the_fireflies = [
+let grave_of_the_fireflies = [
     "Grave of the Fireflies",
     "Go scroll down to learn more about Grave of the Fireflies",
 ]
-var great_pretender = [
+let great_pretender = [
     "Great Pretender",
     "Go scroll down to learn more about Great Pretender",
 ]
-var great_teacher_onizuka = [
+let great_teacher_onizuka = [
     "Great Teacher Onizuka",
     "Go scroll down to learn more about Great Teacher Onizuka",
 ]
-var gundam = [
+let gundam = [
     "Gundam",
     "Go scroll down to learn more about Gundam",
 ]
-var haikyuu__ = [
+let haikyuu__ = [
     "Haikyuu!!",
     "Go scroll down to learn more about Haikyuu!!",
 ]
-var hajime_no_ippo = [
+let hajime_no_ippo = [
     "Hajime no Ippo",
     "Go scroll down to learn more about Hajime no Ippo",
 ]
-var hanayamata = [
+let hanayamata = [
     "Hanayamata",
     "Go scroll down to learn more about Hanayamata",
 ]
-var haven_t_you_heard__i_m_sakamoto = [
+let haven_t_you_heard__i_m_sakamoto = [
     "Haven't you heard? I'm Sakamoto",
     "Go scroll down to learn more about Haven't you heard? I'm Sakamoto",
 ]
-var hello_world = [
+let hello_world = [
     "HELLO WORLD",
     "Go scroll down to learn more about HELLO WORLD",
 ]
-var hellsing_ultimate = [
+let hellsing_ultimate = [
     "Hellsing Ultimate",
     "Go scroll down to learn more about Hellsing Ultimate",
 ]
-var hinamatsuri = [
+let hinamatsuri = [
     "Hinamatsuri",
     "Go scroll down to learn more about Hinamatsuri",
 ]
-var how_heavy_are_the_dumbbells_you_lift_ = [
+let how_heavy_are_the_dumbbells_you_lift_ = [
     "How heavy are the dumbbells you lift?",
     "Go scroll down to learn more about How heavy are the dumbbells you lift?",
 ]
-var howl_s_moving_castle = [
+let howl_s_moving_castle = [
     "Howl's Moving Castle",
     "Go scroll down to learn more about Howl's Moving Castle",
 ]
-var humanity_has_declined = [
+let humanity_has_declined = [
     "Humanity has Declined",
     "Go scroll down to learn more about Humanity has Declined",
 ]
-var hunter_x_hunter_______ = [
+let hunter_x_hunter_______ = [
     "Hunter x Hunter (2011)",
     "Go scroll down to learn more about Hunter x Hunter (2011)",
 ]
-var hyouka = [
+let hyouka = [
     "Hyouka",
     "Go scroll down to learn more about Hyouka",
 ]
-var i_want_to_eat_your_pancreas = [
+let i_want_to_eat_your_pancreas = [
     "I Want To Eat Your Pancreas",
     "Go scroll down to learn more about I Want To Eat Your Pancreas",
 ]
-var in_this_corner_of_the_world = [
+let in_this_corner_of_the_world = [
     "In This Corner of the World",
     "Go scroll down to learn more about In This Corner of the World",
 ]
-var initial_d = [
+let initial_d = [
     "Initial-D",
     "Go scroll down to learn more about Initial-D",
 ]
-var into_the_forest_of_fireflies__light = [
+let into_the_forest_of_fireflies__light = [
     "Into the Forest of Fireflies' Light",
     "Go scroll down to learn more about Into the Forest of Fireflies' Light",
 ]
-var is_the_order_a_rabbit_ = [
+let is_the_order_a_rabbit_ = [
     "Is the Order a Rabbit?",
     "Go scroll down to learn more about Is the Order a Rabbit?",
 ]
-var jin_roh__the_wolf_brigade = [
+let jin_roh__the_wolf_brigade = [
     "Jin-Roh: The Wolf Brigade",
     "Go scroll down to learn more about Jin-Roh: The Wolf Brigade",
 ]
-var jojo_s_bizarre_adventure = [
+let jojo_s_bizarre_adventure = [
     "JoJo's Bizarre Adventure",
     "Go scroll down to learn more about JoJo's Bizarre Adventure",
 ]
-var jujutsu_kaisen = [
+let jujutsu_kaisen = [
     "Jujutsu Kaisen",
     "Go scroll down to learn more about Jujutsu Kaisen",
 ]
-var junjou_romantica = [
+let junjou_romantica = [
     "Junjou Romantica",
     "Go scroll down to learn more about Junjou Romantica",
 ]
-var k_on_ = [
+let k_on_ = [
     "K-On!",
     "Go scroll down to learn more about K-On!",
 ]
-var kaiji__ultimate_survivor = [
+let kaiji__ultimate_survivor = [
     "Kaiji: Ultimate Survivor",
     "Go scroll down to learn more about Kaiji: Ultimate Survivor",
 ]
-var kakegurui = [
+let kakegurui = [
     "Kakegurui",
     "Go scroll down to learn more about Kakegurui",
 ]
-var katanagatari = [
+let katanagatari = [
     "Katanagatari",
     "Go scroll down to learn more about Katanagatari",
 ]
-var kaugya_sama_love_is_war = [
+let kaugya_sama_love_is_war = [
     "Kaugya-sama Love is War",
     "Go scroll down to learn more about Kaugya-sama Love is War",
 ]
-var keep_your_hands_off_eizouken_ = [
+let keep_your_hands_off_eizouken_ = [
     "Keep Your Hands off Eizouken!",
     "Go scroll down to learn more about Keep Your Hands off Eizouken!",
 ]
-var keijo = [
+let keijo = [
     "Keijo",
     "Go scroll down to learn more about Keijo",
 ]
-var kids_on_the_slope = [
+let kids_on_the_slope = [
     "Kids on the Slope",
     "Go scroll down to learn more about Kids on the Slope",
 ]
-var kiki_s_delivery_service = [
+let kiki_s_delivery_service = [
     "Kiki's Delivery Service",
     "Go scroll down to learn more about Kiki's Delivery Service",
 ]
-var kill_la_kill = [
+let kill_la_kill = [
     "Kill la Kill",
     "Go scroll down to learn more about Kill la Kill",
 ]
-var kiniro_mosaic = [
+let kiniro_mosaic = [
     "Kiniro Mosaic",
     "Go scroll down to learn more about Kiniro Mosaic",
 ]
-var kokoro_connect = [
+let kokoro_connect = [
     "Kokoro Connect",
     "Go scroll down to learn more about Kokoro Connect",
 ]
-var konosuba = [
+let konosuba = [
     "Konosuba",
     "Go scroll down to learn more about Konosuba",
 ]
-var kuroko_s_basketball = [
+let kuroko_s_basketball = [
     "Kuroko's Basketball",
     "Go scroll down to learn more about Kuroko's Basketball",
 ]
-var liz_and_the_blue_bird = [
+let liz_and_the_blue_bird = [
     "Liz and the Blue Bird",
     "Go scroll down to learn more about Liz and the Blue Bird",
 ]
-var love_is_hard_for_otaku = [
+let love_is_hard_for_otaku = [
     "Love is Hard for Otaku",
     "Go scroll down to learn more about Love is Hard for Otaku",
 ]
-var lupin_iii = [
+let lupin_iii = [
     "Lupin III",
     "Go scroll down to learn more about Lupin III",
 ]
-var made_in_abyss = [
+let made_in_abyss = [
     "Made in Abyss",
     "Go scroll down to learn more about Made in Abyss",
 ]
-var major = [
+let major = [
     "Major",
     "Go scroll down to learn more about Major",
 ]
-var maquia = [
+let maquia = [
     "Maquia",
     "Go scroll down to learn more about Maquia",
 ]
-var march_comes_in_like_a_lion = [
+let march_comes_in_like_a_lion = [
     "March Comes in Like a Lion",
     "Go scroll down to learn more about March Comes in Like a Lion",
 ]
-var megalobox = [
+let megalobox = [
     "Megalobox",
     "Go scroll down to learn more about Megalobox",
 ]
-var millennium_actress = [
+let millennium_actress = [
     "Millennium Actress",
     "Go scroll down to learn more about Millennium Actress",
 ]
-var mind_game = [
+let mind_game = [
     "Mind Game",
     "Go scroll down to learn more about Mind Game",
 ]
-var mirai = [
+let mirai = [
     "Mirai",
     "Go scroll down to learn more about Mirai",
 ]
-var miss_kobayashi_s_dragon_maid = [
+let miss_kobayashi_s_dragon_maid = [
     "Miss Kobayashi's Dragon Maid",
     "Go scroll down to learn more about Miss Kobayashi's Dragon Maid",
 ]
-var mob_psycho____ = [
+let mob_psycho____ = [
     "Mob Psycho 100",
     "Go scroll down to learn more about Mob Psycho 100",
 ]
-var mononoke = [
+let mononoke = [
     "Mononoke",
     "Go scroll down to learn more about Mononoke",
 ]
-var monster = [
+let monster = [
     "Monster",
     "Go scroll down to learn more about Monster",
 ]
-var monster_musume = [
+let monster_musume = [
     "Monster Musume",
     "Go scroll down to learn more about Monster Musume",
 ]
-var monthly_girls__nozaki_kun = [
+let monthly_girls__nozaki_kun = [
     "Monthly Girls' Nozaki-Kun",
     "Go scroll down to learn more about Monthly Girls' Nozaki-Kun",
 ]
-var mushi_shi = [
+let mushi_shi = [
     "Mushi-shi",
     "Go scroll down to learn more about Mushi-shi",
 ]
-var my_hero_academia = [
+let my_hero_academia = [
     "My Hero Academia",
     "Go scroll down to learn more about My Hero Academia",
 ]
-var my_neighbor_totoro = [
+let my_neighbor_totoro = [
     "My Neighbor Totoro",
     "Go scroll down to learn more about My Neighbor Totoro",
 ]
-var my_next_life_as_a_villainess__all_routes_lead_to_doom_ = [
+let my_next_life_as_a_villainess__all_routes_lead_to_doom_ = [
     "My Next Life as a Villainess: All Routes lead to Doom!",
     "Go scroll down to learn more about My Next Life as a Villainess: All Routes lead to Doom!",
 ]
-var naruto = [
+let naruto = [
     "Naruto",
     "Go scroll down to learn more about Naruto",
 ]
-var neon_genesis_evangelion = [
+let neon_genesis_evangelion = [
     "Neon Genesis Evangelion",
     "Go scroll down to learn more about Neon Genesis Evangelion",
 ]
-var new_game_ = [
+let new_game_ = [
     "New Game!",
     "Go scroll down to learn more about New Game!",
 ]
-var nichijou = [
+let nichijou = [
     "Nichijou",
     "Go scroll down to learn more about Nichijou",
 ]
-var no_game_no_life = [
+let no_game_no_life = [
     "No Game No Life",
     "Go scroll down to learn more about No Game No Life",
 ]
-var non_non_biyori = [
+let non_non_biyori = [
     "Non Non Biyori",
     "Go scroll down to learn more about Non Non Biyori",
 ]
-var noragami = [
+let noragami = [
     "Noragami",
     "Go scroll down to learn more about Noragami",
 ]
-var o_maidens_in_your_savage_season = [
+let o_maidens_in_your_savage_season = [
     "O Maidens in Your Savage Season",
     "Go scroll down to learn more about O Maidens in Your Savage Season",
 ]
-var one_piece = [
+let one_piece = [
     "One Piece",
     "Go scroll down to learn more about One Piece",
 ]
-var one_punch_man = [
+let one_punch_man = [
     "One Punch Man",
     "Go scroll down to learn more about One Punch Man",
 ]
-var oregairu = [
+let oregairu = [
     "Oregairu",
     "Go scroll down to learn more about Oregairu",
 ]
-var ouran_high_school_host_club = [
+let ouran_high_school_host_club = [
     "Ouran High School Host Club",
     "Go scroll down to learn more about Ouran High School Host Club",
 ]
-var overlord = [
+let overlord = [
     "Overlord",
     "Go scroll down to learn more about Overlord",
 ]
-var paprika = [
+let paprika = [
     "Paprika",
     "Go scroll down to learn more about Paprika",
 ]
-var parasyte = [
+let parasyte = [
     "Parasyte",
     "Go scroll down to learn more about Parasyte",
 ]
-var patema_inverted = [
+let patema_inverted = [
     "Patema Inverted",
     "Go scroll down to learn more about Patema Inverted",
 ]
-var perfect_blue = [
+let perfect_blue = [
     "Perfect Blue",
     "Go scroll down to learn more about Perfect Blue",
 ]
-var ping_pong_the_animation = [
+let ping_pong_the_animation = [
     "Ping Pong the Animation",
     "Go scroll down to learn more about Ping Pong the Animation",
 ]
-var prince_of_tennis = [
+let prince_of_tennis = [
     "Prince of Tennis",
     "Go scroll down to learn more about Prince of Tennis",
 ]
-var princess_monoke = [
+let princess_monoke = [
     "Princess Monoke",
     "Go scroll down to learn more about Princess Monoke",
 ]
-var prison_school = [
+let prison_school = [
     "Prison School",
     "Go scroll down to learn more about Prison School",
 ]
-var psycho_pass = [
+let psycho_pass = [
     "Psycho-Pass",
     "Go scroll down to learn more about Psycho-Pass",
 ]
-var puella_magi_madoka_magica = [
+let puella_magi_madoka_magica = [
     "Puella Magi Madoka Magica",
     "Go scroll down to learn more about Puella Magi Madoka Magica",
 ]
-var rainbow = [
+let rainbow = [
     "Rainbow",
     "Go scroll down to learn more about Rainbow",
 ]
-var re_zero = [
+let re_zero = [
     "Re:Zero",
     "Go scroll down to learn more about Re:Zero",
 ]
-var redine = [
+let redine = [
     "Redine",
     "Go scroll down to learn more about Redine",
 ]
-var ride_your_wave = [
+let ride_your_wave = [
     "Ride Your Wave",
     "Go scroll down to learn more about Ride Your Wave",
 ]
-var rising_of_the_shield_hero = [
+let rising_of_the_shield_hero = [
     "Rising of the Shield Hero",
     "Go scroll down to learn more about Rising of the Shield Hero",
 ]
-var run_with_the_wind = [
+let run_with_the_wind = [
     "Run with the Wind",
     "Go scroll down to learn more about Run with the Wind",
 ]
-var saga_of_tanya_the_evil = [
+let saga_of_tanya_the_evil = [
     "Saga of Tanya the Evil",
     "Go scroll down to learn more about Saga of Tanya the Evil",
 ]
-var samurai_champloo = [
+let samurai_champloo = [
     "Samurai Champloo",
     "Go scroll down to learn more about Samurai Champloo",
 ]
-var school_live = [
+let school_live = [
     "School Live",
     "Go scroll down to learn more about School Live",
 ]
-var serial_experiments_lain = [
+let serial_experiments_lain = [
     "Serial Experiments Lain",
     "Go scroll down to learn more about Serial Experiments Lain",
 ]
-var shiki = [
+let shiki = [
     "Shiki",
     "Go scroll down to learn more about Shiki",
 ]
-var shinsekai_yori = [
+let shinsekai_yori = [
     "Shinsekai yori",
     "Go scroll down to learn more about Shinsekai yori",
 ]
-var shirobako = [
+let shirobako = [
     "Shirobako",
     "Go scroll down to learn more about Shirobako",
 ]
-var showa_genroku_rakugo_shinjuu = [
+let showa_genroku_rakugo_shinjuu = [
     "Showa Genroku Rakugo Shinjuu",
     "Go scroll down to learn more about Showa Genroku Rakugo Shinjuu",
 ]
-var sk__the_infinity = [
+let sk__the_infinity = [
     "Sk8 the Infinity",
     "Go scroll down to learn more about Sk8 the Infinity",
 ]
-var skull_face_bookseller_honda_san = [
+let skull_face_bookseller_honda_san = [
     "Skull-face Bookseller Honda-san",
     "Go scroll down to learn more about Skull-face Bookseller Honda-san",
 ]
-var slam_dunk = [
+let slam_dunk = [
     "Slam Dunk",
     "Go scroll down to learn more about Slam Dunk",
 ]
-var sound__euphonium = [
+let sound__euphonium = [
     "Sound! Euphonium",
     "Go scroll down to learn more about Sound! Euphonium",
 ]
-var space_brothers = [
+let space_brothers = [
     "Space Brothers",
     "Go scroll down to learn more about Space Brothers",
 ]
-var spice___wolf_ = [
+let spice___wolf_ = [
     "Spice & Wolf ",
     "Go scroll down to learn more about Spice & Wolf ",
 ]
-var spirited_away = [
+let spirited_away = [
     "Spirited Away",
     "Go scroll down to learn more about Spirited Away",
 ]
-var steins_gate = [
+let steins_gate = [
     "Steins;Gate",
     "Go scroll down to learn more about Steins;Gate",
 ]
-var summer_wars = [
+let summer_wars = [
     "Summer Wars",
     "Go scroll down to learn more about Summer Wars",
 ]
-var sweetness___lightning = [
+let sweetness___lightning = [
     "Sweetness & Lightning",
     "Go scroll down to learn more about Sweetness & Lightning",
 ]
-var sword_art_online = [
+let sword_art_online = [
     "Sword Art Online",
     "Go scroll down to learn more about Sword Art Online",
 ]
-var sword_of_the_stranger = [
+let sword_of_the_stranger = [
     "Sword of the Stranger",
     "Go scroll down to learn more about Sword of the Stranger",
 ]
-var tamako_market = [
+let tamako_market = [
     "Tamako Market",
     "Go scroll down to learn more about Tamako Market",
 ]
-var tanaka_kun_is_always_listless = [
+let tanaka_kun_is_always_listless = [
     "Tanaka-kun is Always Listless",
     "Go scroll down to learn more about Tanaka-kun is Always Listless",
 ]
-var teasing_master_takagi_san = [
+let teasing_master_takagi_san = [
     "Teasing Master Takagi-san",
     "Go scroll down to learn more about Teasing Master Takagi-san",
 ]
-var tengen_toppa_gurren_lagann = [
+let tengen_toppa_gurren_lagann = [
     "Tengen Toppa Gurren Lagann",
     "Go scroll down to learn more about Tengen Toppa Gurren Lagann",
 ]
-var terror_in_resonance = [
+let terror_in_resonance = [
     "Terror In Resonance",
     "Go scroll down to learn more about Terror In Resonance",
 ]
-var that_time_i_got_reincarnated_as_a_slime = [
+let that_time_i_got_reincarnated_as_a_slime = [
     "That TIme I Got Reincarnated as a Slime",
     "Go scroll down to learn more about That TIme I Got Reincarnated as a Slime",
 ]
-var the_boy_and_the_beast = [
+let the_boy_and_the_beast = [
     "The Boy and the Beast",
     "Go scroll down to learn more about The Boy and the Beast",
 ]
-var the_cat_returns = [
+let the_cat_returns = [
     "The Cat Returns",
     "Go scroll down to learn more about The Cat Returns",
 ]
-var the_disastrous_life_of_saiki_k_ = [
+let the_disastrous_life_of_saiki_k_ = [
     "The Disastrous Life of Saiki K.",
     "Go scroll down to learn more about The Disastrous Life of Saiki K.",
 ]
-var the_garden_of_words = [
+let the_garden_of_words = [
     "The Garden of Words",
     "Go scroll down to learn more about The Garden of Words",
 ]
-var the_girl_who_leapt_through_time = [
+let the_girl_who_leapt_through_time = [
     "The Girl Who Leapt Through Time",
     "Go scroll down to learn more about The Girl Who Leapt Through Time",
 ]
-var the_night_is_short__walk_on_girl = [
+let the_night_is_short__walk_on_girl = [
     "The Night Is Short, Walk on Girl",
     "Go scroll down to learn more about The Night Is Short, Walk on Girl",
 ]
-var the_pet_girl_of_sakurasou = [
+let the_pet_girl_of_sakurasou = [
     "The Pet Girl of Sakurasou",
     "Go scroll down to learn more about The Pet Girl of Sakurasou",
 ]
-var the_place_promised_in_our_early_days = [
+let the_place_promised_in_our_early_days = [
     "The Place Promised in Our Early Days",
     "Go scroll down to learn more about The Place Promised in Our Early Days",
 ]
-var the_promised_neverland = [
+let the_promised_neverland = [
     "The Promised Neverland",
     "Go scroll down to learn more about The Promised Neverland",
 ]
-var the_quintessential_quintuplets = [
+let the_quintessential_quintuplets = [
     "The Quintessential Quintuplets",
     "Go scroll down to learn more about The Quintessential Quintuplets",
 ]
-var the_tale_of_the_princess_kaguya = [
+let the_tale_of_the_princess_kaguya = [
     "The Tale of the Princess Kaguya",
     "Go scroll down to learn more about The Tale of the Princess Kaguya",
 ]
-var the_tatami_galaxy = [
+let the_tatami_galaxy = [
     "The Tatami Galaxy",
     "Go scroll down to learn more about The Tatami Galaxy",
 ]
-var the_wind_rises = [
+let the_wind_rises = [
     "The Wind Rises",
     "Go scroll down to learn more about The Wind Rises",
 ]
-var tokyo_ghoul = [
+let tokyo_ghoul = [
     "Tokyo Ghoul",
     "Go scroll down to learn more about Tokyo Ghoul",
 ]
-var tokyo_godfathers = [
+let tokyo_godfathers = [
     "Tokyo Godfathers",
     "Go scroll down to learn more about Tokyo Godfathers",
 ]
-var toradora_ = [
+let toradora_ = [
     "Toradora!",
     "Go scroll down to learn more about Toradora!",
 ]
-var tower_of_god = [
+let tower_of_god = [
     "Tower of God",
     "Go scroll down to learn more about Tower of God",
 ]
-var tsuredure_children = [
+let tsuredure_children = [
     "Tsuredure Children",
     "Go scroll down to learn more about Tsuredure Children",
 ]
-var usagi_drop = [
+let usagi_drop = [
     "Usagi Drop",
     "Go scroll down to learn more about Usagi Drop",
 ]
-var vinland_saga = [
+let vinland_saga = [
     "Vinland Saga",
     "Go scroll down to learn more about Vinland Saga",
 ]
-var violet_evergarden = [
+let violet_evergarden = [
     "Violet Evergarden",
     "Go scroll down to learn more about Violet Evergarden",
 ]
-var weathering_with_you = [
+let weathering_with_you = [
     "Weathering With You",
     "Go scroll down to learn more about Weathering With You",
 ]
-var when_marnie_was_there = [
+let when_marnie_was_there = [
     "When Marnie Was There",
     "Go scroll down to learn more about When Marnie Was There",
 ]
-var when_they_cry = [
+let when_they_cry = [
     "When They Cry",
     "Go scroll down to learn more about When They Cry",
 ]
-var whisper_of_the_heart = [
+let whisper_of_the_heart = [
     "Whisper of the Heart",
     "Go scroll down to learn more about Whisper of the Heart",
 ]
-var wolf_children = [
+let wolf_children = [
     "Wolf Children",
     "Go scroll down to learn more about Wolf Children",
 ]
-var your_lie_in_april = [
+let your_lie_in_april = [
     "Your Lie in April",
     "Go scroll down to learn more about Your Lie in April",
 ]
-var your_name_ = [
+let your_name_ = [
     "Your Name.",
     "Go scroll down to learn more about Your Name.",
 ]
-var yowamushi_pedal = [
+let yowamushi_pedal = [
     "Yowamushi Pedal",
     "Go scroll down to learn more about Yowamushi Pedal",
 ]
-var yuri____on_ice = [
+let yuri____on_ice = [
     "Yuri!!! On Ice",
     "Go scroll down to learn more about Yuri!!! On Ice",
 ]
-var yuru_camp = [
+let yuru_camp = [
     "Yuru Camp",
     "Go scroll down to learn more about Yuru Camp",
 ]
-var yuyushiki = [
+let yuyushiki = [
     "Yuyushiki",
     "Go scroll down to learn more about Yuyushiki",
 ]
-var bizarre_roast_of_society = [
+let bizarre_roast_of_society = [
     "Bizarre Roast of Society",
     "We chose Humanity has Declined for you!",
     humanity_has_declined,
 ]
-var dragon_girls = [
+let dragon_girls = [
     "Dragon Girls",
     "We chose Miss Kobayashi's Dragon Maid for you!",
     miss_kobayashi_s_dragon_maid,
 ]
-var guys_being_dudes = [
+let guys_being_dudes = [
     "Guys Being Dudes",
     "We chose Daily Lives of High School Boys for you!",
     daily_lives_of_high_school_boys,
 ]
-var large_cast = [
+let large_cast = [
     "Large Cast",
     "We chose Nichijou for you!",
     nichijou,
 ]
-var not_so_innocent_girls = [
+let not_so_innocent_girls = [
     "Not So Innocent Girls",
     "We chose Asobi Asobase for you!",
     asobi_asobase,
 ]
-var odd_jobs = [
+let odd_jobs = [
     "Odd Jobs",
     "We chose Gintama for you!",
     gintama,
 ]
-var boisterous_fun = [
+let boisterous_fun = [
     "Boisterous Fun",
     "Boisterous Fun about what?",
     large_cast,
     not_so_innocent_girls,
 ]
-var bouncing = [
+let bouncing = [
     "Bouncing",
     "We chose Keijo for you!",
     keijo,
 ]
-var cycling = [
+let cycling = [
     "Cycling",
     "We chose Yowamushi Pedal for you!",
     yowamushi_pedal,
 ]
-var ecchi = [
+let ecchi = [
     "Ecchi",
     "We chose Kill la Kill for you!",
     kill_la_kill,
 ]
-var evil_spirits = [
+let evil_spirits = [
     "Evil Spirits",
     "We chose Jujutsu Kaisen for you!",
     jujutsu_kaisen,
 ]
-var evil_vampires = [
+let evil_vampires = [
     "Evil Vampires",
     "We chose Demon Slayer for you!",
     demon_slayer,
 ]
-var fight_for_humanity = [
+let fight_for_humanity = [
     "Fight For Humanity",
     "We chose Attack on Titan for you!",
     attack_on_titan,
 ]
-var fitness = [
+let fitness = [
     "Fitness",
     "We chose How heavy are the dumbbells you lift? for you!",
     how_heavy_are_the_dumbbells_you_lift_,
 ]
-var heroes = [
+let heroes = [
     "Heroes",
     "We chose My Hero Academia for you!",
     my_hero_academia,
 ]
-var japanese_snacks = [
+let japanese_snacks = [
     "Japanese Snacks",
     "We chose Dagashi Kashi for you!",
     dagashi_kashi,
 ]
-var knights = [
+let knights = [
     "Knights",
     "We chose Hellsing Ultimate for you!",
     hellsing_ultimate,
 ]
-var manly = [
+let manly = [
     "Manly",
     "We chose JoJo's Bizarre Adventure for you!",
     jojo_s_bizarre_adventure,
 ]
-var mercenaries = [
+let mercenaries = [
     "Mercenaries",
     "We chose Black Lagoon for you!",
     black_lagoon,
 ]
-var miscellaneous_daily_life = [
+let miscellaneous_daily_life = [
     "Miscellaneous Daily Life",
     "What types of miscellaneous daily life anime?",
     odd_jobs,
     dragon_girls,
     bizarre_roast_of_society,
 ]
-var modern_american_football = [
+let modern_american_football = [
     "Modern American Football",
     "We chose Eyeshield 21 for you!",
     eyeshield___,
 ]
-var modern_basketball = [
+let modern_basketball = [
     "Modern Basketball",
     "We chose Kuroko's Basketball for you!",
     kuroko_s_basketball,
 ]
-var modern_ping_pong = [
+let modern_ping_pong = [
     "Modern Ping-Pong",
     "We chose Ping Pong the Animation for you!",
     ping_pong_the_animation,
 ]
-var modern_tennis = [
+let modern_tennis = [
     "Modern Tennis",
     "We chose Baby Steps for you!",
     baby_steps,
 ]
-var modern_volleyball = [
+let modern_volleyball = [
     "Modern Volleyball",
     "We chose Haikyuu!! for you!",
     haikyuu__,
 ]
-var mythology = [
+let mythology = [
     "Mythology",
     "We chose Noragami for you!",
     noragami,
 ]
-var running = [
+let running = [
     "Running",
     "We chose Run with the Wind for you!",
     run_with_the_wind,
 ]
-var sorcerers = [
+let sorcerers = [
     "Sorcerers",
     "We chose Saga of Tanya the Evil for you!",
     saga_of_tanya_the_evil,
 ]
-var super_power = [
+let super_power = [
     "Super Power",
     "We chose Mob Psycho 100 for you!",
     mob_psycho____,
 ]
-var super_robot = [
+let super_robot = [
     "Super Robot",
     "We chose Tengen Toppa Gurren Lagann for you!",
     tengen_toppa_gurren_lagann,
 ]
-var superhero = [
+let superhero = [
     "Superhero",
     "We chose One Punch Man for you!",
     one_punch_man,
 ]
-var swimming = [
+let swimming = [
     "Swimming",
     "We chose Free! for you!",
     free_,
 ]
-var the_human_body = [
+let the_human_body = [
     "The Human Body",
     "We chose Cells at Work! for you!",
     cells_at_work_,
 ]
-var vikings = [
+let vikings = [
     "Vikings",
     "We chose Vinland Saga for you!",
     vinland_saga,
 ]
-var about_judgement = [
+let about_judgement = [
     "About Judgement",
     "We chose Death Parade for you!",
     death_parade,
 ]
-var about_reflection_on_life_choices = [
+let about_reflection_on_life_choices = [
     "About Reflection on Life Choices",
     "We chose The Tatami Galaxy for you!",
     the_tatami_galaxy,
 ]
-var adult_nerds = [
+let adult_nerds = [
     "Adult Nerds",
     "We chose Love is Hard for Otaku for you!",
     love_is_hard_for_otaku,
 ]
-var alien_teacher = [
+let alien_teacher = [
     "Alien Teacher",
     "We chose Assassination Classroom for you!",
     assassination_classroom,
 ]
-var alternate_postwar = [
+let alternate_postwar = [
     "Alternate Postwar",
     "We chose The Place Promised in Our Early Days for you!",
     the_place_promised_in_our_early_days,
 ]
-var androids_and_cyborgs = [
+let androids_and_cyborgs = [
     "Androids and Cyborgs",
     "We chose Ghost in the Shell: SAC for you!",
     ghost_in_the_shell__sac,
 ]
-var anime_production = [
+let anime_production = [
     "Anime Production",
     "We chose Shirobako for you!",
     shirobako,
 ]
-var antarctica = [
+let antarctica = [
     "Antarctica",
     "We chose A Place Further than the Universe for you!",
     a_place_further_than_the_universe,
 ]
-var audience__josei = [
+let audience__josei = [
     "Audience: Josei",
     "We chose Usagi Drop for you!",
     usagi_drop,
 ]
-var audience__seinen = [
+let audience__seinen = [
     "Audience: Seinen",
     "We chose Sweetness & Lightning for you!",
     sweetness___lightning,
 ]
-var ball_games = [
+let ball_games = [
     "Ball Games",
     "What balls do you like?",
     modern_volleyball,
@@ -1078,200 +1078,200 @@ var ball_games = [
     modern_american_football,
     modern_tennis,
 ]
-var band_and_drama = [
+let band_and_drama = [
     "Band and Drama",
     "We chose Sound! Euphonium for you!",
     sound__euphonium,
 ]
-var baristas = [
+let baristas = [
     "Baristas",
     "We chose Is the Order a Rabbit? for you!",
     is_the_order_a_rabbit_,
 ]
-var baseball = [
+let baseball = [
     "Baseball",
     "We chose Cross Game for you!",
     cross_game,
 ]
-var battle_of_wits = [
+let battle_of_wits = [
     "Battle of Wits",
     "We chose Kaugya-sama Love is War for you!",
     kaugya_sama_love_is_war,
 ]
-var best_swordsman = [
+let best_swordsman = [
     "Best Swordsman",
     "We chose Sword of the Stranger for you!",
     sword_of_the_stranger,
 ]
-var bi_isekai = [
+let bi_isekai = [
     "Bi-Isekai",
     "We chose My Next Life as a Villainess: All Routes lead to Doom! for you!",
     my_next_life_as_a_villainess__all_routes_lead_to_doom_,
 ]
-var bookseller = [
+let bookseller = [
     "Bookseller",
     "We chose Skull-face Bookseller Honda-san for you!",
     skull_face_bookseller_honda_san,
 ]
-var bookworm_meets_popular_girl = [
+let bookworm_meets_popular_girl = [
     "Bookworm Meets Popular Girl",
     "We chose I Want To Eat Your Pancreas for you!",
     i_want_to_eat_your_pancreas,
 ]
-var bounty_hunter = [
+let bounty_hunter = [
     "Bounty Hunter",
     "We chose Cowboy Bebop for you!",
     cowboy_bebop,
 ]
-var camping = [
+let camping = [
     "Camping",
     "We chose Yuru Camp for you!",
     yuru_camp,
 ]
-var cat_kingdom = [
+let cat_kingdom = [
     "Cat Kingdom",
     "We chose The Cat Returns for you!",
     the_cat_returns,
 ]
-var childhood_friend = [
+let childhood_friend = [
     "Childhood Friend",
     "We chose AnoHana for you!",
     anohana,
 ]
-var classic_baseball = [
+let classic_baseball = [
     "Classic Baseball",
     "We chose Major for you!",
     major,
 ]
-var classic_basketball = [
+let classic_basketball = [
     "Classic Basketball",
     "We chose Slam Dunk for you!",
     slam_dunk,
 ]
-var classic_boxing = [
+let classic_boxing = [
     "Classic Boxing",
     "We chose Hajime no Ippo for you!",
     hajime_no_ippo,
 ]
-var classic_car_racing = [
+let classic_car_racing = [
     "Classic Car Racing",
     "We chose Initial-D for you!",
     initial_d,
 ]
-var classic_tennis = [
+let classic_tennis = [
     "Classic Tennis",
     "We chose Prince of Tennis for you!",
     prince_of_tennis,
 ]
-var coding_fights = [
+let coding_fights = [
     "Coding Fights",
     "We chose Summer Wars for you!",
     summer_wars,
 ]
-var cooking = [
+let cooking = [
     "Cooking",
     "We chose Food Wars! for you!",
     food_wars_,
 ]
-var country_roads = [
+let country_roads = [
     "Country Roads",
     "We chose Whisper of the Heart for you!",
     whisper_of_the_heart,
 ]
-var cute_culture_clash = [
+let cute_culture_clash = [
     "Cute Culture Clash",
     "We chose Kiniro Mosaic for you!",
     kiniro_mosaic,
 ]
-var deaf = [
+let deaf = [
     "Deaf",
     "We chose A Silent Voice for you!",
     a_silent_voice,
 ]
-var depression = [
+let depression = [
     "Depression",
     "We chose March Comes in Like a Lion for you!",
     march_comes_in_like_a_lion,
 ]
-var dissociative_identity_disorder = [
+let dissociative_identity_disorder = [
     "Dissociative Identity Disorder",
     "We chose Serial Experiments Lain for you!",
     serial_experiments_lain,
 ]
-var down = [
+let down = [
     "Down",
     "We chose Made in Abyss for you!",
     made_in_abyss,
 ]
-var educational_fun = [
+let educational_fun = [
     "Educational Fun",
     "What would you like to learn about?",
     japanese_snacks,
     the_human_body,
     fitness,
 ]
-var engineer = [
+let engineer = [
     "Engineer",
     "We chose The Wind Rises for you!",
     the_wind_rises,
 ]
-var europe_during_the_holy_roman_empire = [
+let europe_during_the_holy_roman_empire = [
     "Europe during the Holy Roman Empire",
     "We chose Spice & Wolf  for you!",
     spice___wolf_,
 ]
-var evil_beings = [
+let evil_beings = [
     "Evil Beings",
     "Who's evil?",
     evil_spirits,
     evil_vampires,
 ]
-var family_friendly = [
+let family_friendly = [
     "Family Friendly",
     "We chose Children who Chase Lost Voices for you!",
     children_who_chase_lost_voices,
 ]
-var father_is_a_yakuza_member = [
+let father_is_a_yakuza_member = [
     "Father is a Yakuza Member",
     "We chose Hinamatsuri for you!",
     hinamatsuri,
 ]
-var festival_dancing = [
+let festival_dancing = [
     "Festival Dancing",
     "We chose Hanayamata for you!",
     hanayamata,
 ]
-var final_high_school_music_performance = [
+let final_high_school_music_performance = [
     "Final High School Music Performance",
     "We chose Liz and the Blue Bird for you!",
     liz_and_the_blue_bird,
 ]
-var finding_a_different_realm = [
+let finding_a_different_realm = [
     "Finding a Different Realm",
     "We chose The Boy and the Beast for you!",
     the_boy_and_the_beast,
 ]
-var first_love = [
+let first_love = [
     "First Love",
     "We chose Teasing Master Takagi-san for you!",
     teasing_master_takagi_san,
 ]
-var from_the_showa_era__rakugo_ = [
+let from_the_showa_era__rakugo_ = [
     "From the Showa Era (Rakugo)",
     "We chose Showa Genroku Rakugo Shinjuu for you!",
     showa_genroku_rakugo_shinjuu,
 ]
-var fugitive = [
+let fugitive = [
     "Fugitive",
     "We chose Lupin III for you!",
     lupin_iii,
 ]
-var fun_in_the_boonies = [
+let fun_in_the_boonies = [
     "Fun in the Boonies",
     "We chose Non Non Biyori for you!",
     non_non_biyori,
 ]
-var funny = [
+let funny = [
     "Funny",
     "What funnies?",
     superhero,
@@ -1280,22 +1280,22 @@ var funny = [
     ecchi,
     mythology,
 ]
-var getting_lost = [
+let getting_lost = [
     "Getting Lost",
     "We chose Spirited Away for you!",
     spirited_away,
 ]
-var gondola_tour_guides = [
+let gondola_tour_guides = [
     "Gondola Tour Guides",
     "We chose Aria for you!",
     aria,
 ]
-var goofing_off = [
+let goofing_off = [
     "Goofing Off",
     "We chose Yuyushiki for you!",
     yuyushiki,
 ]
-var gritty = [
+let gritty = [
     "Gritty",
     "Who's involved?",
     sorcerers,
@@ -1303,392 +1303,392 @@ var gritty = [
     mercenaries,
     vampires,
 ]
-var horny_college_kids = [
+let horny_college_kids = [
     "Horny College Kids",
     "We chose Grand Blue for you!",
     grand_blue,
 ]
-var horny_teens = [
+let horny_teens = [
     "Horny Teens",
     "We chose Prison School for you!",
     prison_school,
 ]
-var hunters = [
+let hunters = [
     "Hunters",
     "We chose Hunter x Hunter (2011) for you!",
     hunter_x_hunter_______,
 ]
-var ice_skating = [
+let ice_skating = [
     "Ice Skating",
     "We chose Yuri!!! On Ice for you!",
     yuri____on_ice,
 ]
-var identical_sisters = [
+let identical_sisters = [
     "Identical Sisters",
     "We chose The Quintessential Quintuplets for you!",
     the_quintessential_quintuplets,
 ]
-var jazz_and_drama = [
+let jazz_and_drama = [
     "Jazz and Drama",
     "We chose Kids on the Slope for you!",
     kids_on_the_slope,
 ]
-var knights_and_mystical_beings = [
+let knights_and_mystical_beings = [
     "Knights and Mystical Beings",
     "We chose Maquia for you!",
     maquia,
 ]
-var kurata = [
+let kurata = [
     "Kurata",
     "We chose Chihayafuru for you!",
     chihayafuru,
 ]
-var laputa = [
+let laputa = [
     "Laputa",
     "We chose Castle in the Sky for you!",
     castle_in_the_sky,
 ]
-var lazy_angel_and_evil_deeds = [
+let lazy_angel_and_evil_deeds = [
     "Lazy Angel and Evil Deeds",
     "We chose Gabriel Dropout for you!",
     gabriel_dropout,
 ]
-var light_music = [
+let light_music = [
     "Light Music",
     "We chose K-On! for you!",
     k_on_,
 ]
-var mafia = [
+let mafia = [
     "Mafia",
     "We chose Baccano! for you!",
     baccano_,
 ]
-var mages = [
+let mages = [
     "Mages",
     "We chose Fairy Tail for you!",
     fairy_tail,
 ]
-var magical_girls_and_witches = [
+let magical_girls_and_witches = [
     "Magical Girls and Witches",
     "We chose Kiki's Delivery Service for you!",
     kiki_s_delivery_service,
 ]
-var making_a_friend = [
+let making_a_friend = [
     "Making a Friend",
     "We chose When Marnie Was There for you!",
     when_marnie_was_there,
 ]
-var making_anime = [
+let making_anime = [
     "Making Anime",
     "We chose Keep Your Hands off Eizouken! for you!",
     keep_your_hands_off_eizouken_,
 ]
-var making_manga = [
+let making_manga = [
     "Making Manga",
     "We chose Comic Girls for you!",
     comic_girls,
 ]
-var making_video_games = [
+let making_video_games = [
     "Making Video Games",
     "We chose New Game! for you!",
     new_game_,
 ]
-var manga_artist = [
+let manga_artist = [
     "Manga Artist",
     "We chose Bakuman for you!",
     bakuman,
 ]
-var many_seasons = [
+let many_seasons = [
     "Many Seasons",
     "What's it about?",
     fight_for_humanity,
     heroes,
     manly,
 ]
-var mcdonald_s_manager = [
+let mcdonald_s_manager = [
     "McDonald's Manager",
     "We chose Space Brothers for you!",
     space_brothers,
 ]
-var mechas = [
+let mechas = [
     "Mechas",
     "We chose Gundam for you!",
     gundam,
 ]
-var modern_aquatic_sports = [
+let modern_aquatic_sports = [
     "Modern Aquatic Sports",
     "What are you doing in the water?",
     swimming,
     bouncing,
 ]
-var modern_boxing = [
+let modern_boxing = [
     "Modern Boxing",
     "We chose Megalobox for you!",
     megalobox,
 ]
-var modern_racing = [
+let modern_racing = [
     "Modern Racing",
     "We running or biking?",
     running,
     cycling,
 ]
-var monster_girls = [
+let monster_girls = [
     "Monster Girls",
     "We chose Monster Musume for you!",
     monster_musume,
 ]
-var moving_to_a_new_home = [
+let moving_to_a_new_home = [
     "Moving to a new Home",
     "We chose My Neighbor Totoro for you!",
     my_neighbor_totoro,
 ]
-var multiple_couples = [
+let multiple_couples = [
     "Multiple Couples",
     "We chose Tsuredure Children for you!",
     tsuredure_children,
 ]
-var mystery_club = [
+let mystery_club = [
     "Mystery Club",
     "We chose Hyouka for you!",
     hyouka,
 ]
-var ninjas = [
+let ninjas = [
     "Ninjas",
     "We chose Naruto for you!",
     naruto,
 ]
-var not_educational = [
+let not_educational = [
     "Not Educational",
     "How much fun would you like to have?",
     boisterous_fun,
     miscellaneous_daily_life,
 ]
-var peaceful_magic = [
+let peaceful_magic = [
     "Peaceful Magic",
     "We chose Flying Witch for you!",
     flying_witch,
 ]
-var pirates = [
+let pirates = [
     "Pirates",
     "We chose One Piece for you!",
     one_piece,
 ]
-var post_apocalypse = [
+let post_apocalypse = [
     "Post-Apocalypse",
     "We chose Girls' Last Tour for you!",
     girls__last_tour,
 ]
-var pure_action = [
+let pure_action = [
     "Pure Action",
     "We chose God of High School for you!",
     god_of_high_school,
 ]
-var reverse_classic = [
+let reverse_classic = [
     "Reverse Classic",
     "We chose Ouran High School Host Club for you!",
     ouran_high_school_host_club,
 ]
-var rom_com_parody = [
+let rom_com_parody = [
     "Rom-Com Parody",
     "We chose Monthly Girls' Nozaki-Kun for you!",
     monthly_girls__nozaki_kun,
 ]
-var samurai = [
+let samurai = [
     "Samurai",
     "We chose Samurai Champloo for you!",
     samurai_champloo,
 ]
-var saving_nature = [
+let saving_nature = [
     "Saving Nature",
     "We chose Princess Monoke for you!",
     princess_monoke,
 ]
-var shopping_alley = [
+let shopping_alley = [
     "Shopping Alley",
     "We chose Tamako Market for you!",
     tamako_market,
 ]
-var skateboarding = [
+let skateboarding = [
     "Skateboarding",
     "We chose Sk8 the Infinity for you!",
     sk__the_infinity,
 ]
-var spirit_samurai = [
+let spirit_samurai = [
     "Spirit Samurai",
     "We chose Bleach for you!",
     bleach,
 ]
-var story_of_one_woman_in_war = [
+let story_of_one_woman_in_war = [
     "Story of One Woman in War",
     "We chose In This Corner of the World for you!",
     in_this_corner_of_the_world,
 ]
-var story_of_two_children_in_war = [
+let story_of_two_children_in_war = [
     "Story of Two Children in War",
     "We chose Grave of the Fireflies for you!",
     grave_of_the_fireflies,
 ]
-var swindler = [
+let swindler = [
     "Swindler",
     "We chose Great Pretender for you!",
     great_pretender,
 ]
-var swords = [
+let swords = [
     "Swords",
     "We chose Katanagatari for you!",
     katanagatari,
 ]
-var takes_place_in_japan = [
+let takes_place_in_japan = [
     "Takes Place in Japan",
     "We chose Rainbow for you!",
     rainbow,
 ]
-var takes_place_in_new_york_city = [
+let takes_place_in_new_york_city = [
     "Takes Place in New York City",
     "We chose Banana Fish for you!",
     banana_fish,
 ]
-var takes_places_in_afterlife = [
+let takes_places_in_afterlife = [
     "Takes Places in Afterlife",
     "We chose Angel Beats for you!",
     angel_beats,
 ]
-var tank_drifting = [
+let tank_drifting = [
     "Tank Drifting",
     "We chose Girls und Panzer for you!",
     girls_und_panzer,
 ]
-var teacher = [
+let teacher = [
     "Teacher",
     "We chose Great Teacher Onizuka for you!",
     great_teacher_onizuka,
 ]
-var the_art_of_laziness = [
+let the_art_of_laziness = [
     "The Art of Laziness",
     "We chose Tanaka-kun is Always Listless for you!",
     tanaka_kun_is_always_listless,
 ]
-var the_og = [
+let the_og = [
     "The OG",
     "We chose Dragon Ball for you!",
     dragon_ball,
 ]
-var the_perfect_man = [
+let the_perfect_man = [
     "The Perfect Man",
     "We chose Haven't you heard? I'm Sakamoto for you!",
     haven_t_you_heard__i_m_sakamoto,
 ]
-var theme_park_director = [
+let theme_park_director = [
     "Theme Park Director",
     "We chose Amagi Brilliant Park for you!",
     amagi_brilliant_park,
 ]
-var up = [
+let up = [
     "Up",
     "We chose Tower of God for you!",
     tower_of_god,
 ]
-var wizards = [
+let wizards = [
     "Wizards",
     "We chose Black Clover for you!",
     black_clover,
 ]
-var wizards_and_witches = [
+let wizards_and_witches = [
     "Wizards and Witches",
     "We chose Howl's Moving Castle for you!",
     howl_s_moving_castle,
 ]
-var yare_yare___ = [
+let yare_yare___ = [
     "Yare Yare...",
     "We chose The Disastrous Life of Saiki K. for you!",
     the_disastrous_life_of_saiki_k_,
 ]
-var yokai__folklore_creatures_ = [
+let yokai__folklore_creatures_ = [
     "Yokai (Folklore Creatures)",
     "We chose Mushi-shi for you!",
     mushi_shi,
 ]
-var young_pianist_loses_mother = [
+let young_pianist_loses_mother = [
     "Young Pianist Loses Mother",
     "We chose Your Lie in April for you!",
     your_lie_in_april,
 ]
-var about_music = [
+let about_music = [
     "About Music",
     "Is there going to be drama about jazz or a big band",
     jazz_and_drama,
     band_and_drama,
 ]
-var acting_career = [
+let acting_career = [
     "Acting Career",
     "We chose Millennium Actress for you!",
     millennium_actress,
 ]
-var actively_participating_in_fights = [
+let actively_participating_in_fights = [
     "Actively Participating in Fights",
     "What's the fight going to be about?",
     best_swordsman,
     coding_fights,
     finding_a_different_realm,
 ]
-var ai_entering_the_physical_world = [
+let ai_entering_the_physical_world = [
     "AI Entering the Physical World",
     "We chose Expelled from Paradise for you!",
     expelled_from_paradise,
 ]
-var aliens = [
+let aliens = [
     "Aliens",
     "We chose Parasyte for you!",
     parasyte,
 ]
-var apparitions = [
+let apparitions = [
     "Apparitions",
     "We chose Bakemonogatari for you!",
     bakemonogatari,
 ]
-var art = [
+let art = [
     "Art",
     "Choose a tag for the drama art anime",
     manga_artist,
     anime_production,
     from_the_showa_era__rakugo_,
 ]
-var art_style_frequently_changes_ = [
+let art_style_frequently_changes_ = [
     "Art Style Frequently Changes.",
     "We chose Mind Game for you!",
     mind_game,
 ]
-var battle_royale_with_tsundere = [
+let battle_royale_with_tsundere = [
     "Battle Royale with Tsundere",
     "We chose Fate/Zero for you!",
     fate_zero,
 ]
-var battle_royale_with_yandere = [
+let battle_royale_with_yandere = [
     "Battle Royale with Yandere",
     "We chose Future Diary for you!",
     future_diary,
 ]
-var body_swap = [
+let body_swap = [
     "Body Swap",
     "We chose Kokoro Connect for you!",
     kokoro_connect,
 ]
-var body_swapping = [
+let body_swapping = [
     "Body-Swapping",
     "We chose Your Name. for you!",
     your_name_,
 ]
-var cat_and_mouse = [
+let cat_and_mouse = [
     "Cat and Mouse",
     "We chose Death Note for you!",
     death_note,
 ]
-var cats = [
+let cats = [
     "Cats",
     "We chose A Whisker Away for you!",
     a_whisker_away,
 ]
-var cgdct_work = [
+let cgdct_work = [
     "CGDCT Work",
     "Choose a type of work tag",
     baristas,
@@ -1696,17 +1696,17 @@ var cgdct_work = [
     making_video_games,
     making_manga,
 ]
-var character_development = [
+let character_development = [
     "Character Development",
     "We chose Re:Zero for you!",
     re_zero,
 ]
-var child_siblings = [
+let child_siblings = [
     "Child Siblings",
     "We chose Mirai for you!",
     mirai,
 ]
-var chillin_ = [
+let chillin_ = [
     "Chillin'",
     "Choose a type of chillin' tag",
     fun_in_the_boonies,
@@ -1714,12 +1714,12 @@ var chillin_ = [
     cute_culture_clash,
     lazy_angel_and_evil_deeds,
 ]
-var civil_unrest = [
+let civil_unrest = [
     "Civil Unrest",
     "We chose Jin-Roh: The Wolf Brigade for you!",
     jin_roh__the_wolf_brigade,
 ]
-var classic = [
+let classic = [
     "Classic",
     "What classic sport?",
     classic_basketball,
@@ -1728,7 +1728,7 @@ var classic = [
     classic_boxing,
     classic_tennis,
 ]
-var club = [
+let club = [
     "Club",
     "Choose a type club tag",
     light_music,
@@ -1738,48 +1738,48 @@ var club = [
     making_anime,
     festival_dancing,
 ]
-var colorful = [
+let colorful = [
     "Colorful",
     "We chose No Game No Life for you!",
     no_game_no_life,
 ]
-var comedic = [
+let comedic = [
     "Comedic",
     "We chose Konosuba for you!",
     konosuba,
 ]
-var contains_some_slap_stick_comedy = [
+let contains_some_slap_stick_comedy = [
     "Contains Some Slap-Stick Comedy",
     "We chose When They Cry for you!",
     when_they_cry,
 ]
-var cybernetics = [
+let cybernetics = [
     "Cybernetics",
     "We chose Ghost in the Shell Movie for you!",
     ghost_in_the_shell_movie,
 ]
-var cyberpunk_action_oriented = [
+let cyberpunk_action_oriented = [
     "Cyberpunk Action Oriented",
     "We chose Akira for you!",
     akira,
 ]
-var daily_life = [
+let daily_life = [
     "Daily Life",
     "Would you like it to be educational?",
     educational_fun,
     not_educational,
 ]
-var demons = [
+let demons = [
     "Demons",
     "We chose Mononoke for you!",
     mononoke,
 ]
-var doctor = [
+let doctor = [
     "Doctor",
     "We chose Monster for you!",
     monster,
 ]
-var drama_action = [
+let drama_action = [
     "Drama Action",
     "Choose a tag for the drama action anime",
     takes_places_in_afterlife,
@@ -1787,22 +1787,22 @@ var drama_action = [
     takes_place_in_japan,
     androids_and_cyborgs,
 ]
-var dream_control = [
+let dream_control = [
     "Dream Control",
     "We chose Paprika for you!",
     paprika,
 ]
-var effects_of_war = [
+let effects_of_war = [
     "Effects of War",
     "We chose Violet Evergarden for you!",
     violet_evergarden,
 ]
-var escape = [
+let escape = [
     "Escape",
     "We chose The Promised Neverland for you!",
     the_promised_neverland,
 ]
-var extremely_popular = [
+let extremely_popular = [
     "Extremely Popular",
     "What popular anime would you like to watch?",
     deaf,
@@ -1810,24 +1810,24 @@ var extremely_popular = [
     final_high_school_music_performance,
     knights_and_mystical_beings,
 ]
-var eye_patch = [
+let eye_patch = [
     "Eye-patch",
     "We chose Another for you!",
     another,
 ]
-var family = [
+let family = [
     "Family",
     "Choose a type of tag for family anime",
     audience__josei,
     father_is_a_yakuza_member,
     audience__seinen,
 ]
-var framed = [
+let framed = [
     "Framed",
     "We chose Rising of the Shield Hero for you!",
     rising_of_the_shield_hero,
 ]
-var friends = [
+let friends = [
     "Friends",
     "Choose a type of tag for friends anime",
     the_art_of_laziness,
@@ -1836,12 +1836,12 @@ var friends = [
     mystery_club,
     peaceful_magic,
 ]
-var gay = [
+let gay = [
     "Gay",
     "We chose Junjou Romantica for you!",
     junjou_romantica,
 ]
-var harem = [
+let harem = [
     "Harem",
     "Choose a type of tag for the harem anime",
     bi_isekai,
@@ -1849,29 +1849,29 @@ var harem = [
     monster_girls,
     identical_sisters,
 ]
-var homeless_people = [
+let homeless_people = [
     "Homeless People",
     "We chose Tokyo Godfathers for you!",
     tokyo_godfathers,
 ]
-var idols = [
+let idols = [
     "Idols",
     "We chose Perfect Blue for you!",
     perfect_blue,
 ]
-var japanese_culture = [
+let japanese_culture = [
     "Japanese Culture",
     "What's the focus on Japanese Culture?",
     swords,
     samurai,
     yokai__folklore_creatures_,
 ]
-var japanese_tale = [
+let japanese_tale = [
     "Japanese Tale",
     "We chose The Tale of the Princess Kaguya for you!",
     the_tale_of_the_princess_kaguya,
 ]
-var jazz = [
+let jazz = [
     "Jazz",
     "Who are we following?",
     mafia,
@@ -1879,7 +1879,7 @@ var jazz = [
     swindler,
     fugitive,
 ]
-var journeys = [
+let journeys = [
     "Journeys",
     "Where to travel?",
     up,
@@ -1887,17 +1887,17 @@ var journeys = [
     europe_during_the_holy_roman_empire,
     antarctica,
 ]
-var lesbian = [
+let lesbian = [
     "Lesbian",
     "We chose Bloom Into You for you!",
     bloom_into_you,
 ]
-var living_again = [
+let living_again = [
     "Living Again",
     "We chose Colorful - The Motion Picture for you!",
     colorful___the_motion_picture,
 ]
-var long_seasons = [
+let long_seasons = [
     "Long Seasons",
     "Pick your poison",
     pirates,
@@ -1909,33 +1909,33 @@ var long_seasons = [
     mechas,
     the_og,
 ]
-var love_triangle = [
+let love_triangle = [
     "Love Triangle",
     "We chose Oregairu for you!",
     oregairu,
 ]
-var love_hate = [
+let love_hate = [
     "Love/Hate",
     "We chose Sword Art Online for you!",
     sword_art_online,
 ]
-var magic = [
+let magic = [
     "Magic",
     "We chose That TIme I Got Reincarnated as a Slime for you!",
     that_time_i_got_reincarnated_as_a_slime,
 ]
-var masks = [
+let masks = [
     "Masks",
     "We chose Into the Forest of Fireflies' Light for you!",
     into_the_forest_of_fireflies__light,
 ]
-var mental_health = [
+let mental_health = [
     "Mental Health",
     "What is your favorite flavor of mental illness?",
     depression,
     dissociative_identity_disorder,
 ]
-var modern = [
+let modern = [
     "Modern",
     "What modern sport?",
     ball_games,
@@ -1947,24 +1947,24 @@ var modern = [
     ice_skating,
     kurata,
 ]
-var musing = [
+let musing = [
     "Musing",
     "Choose a tag for the music action anime",
     about_judgement,
     about_reflection_on_life_choices,
 ]
-var must_watch_for_movie_only_s = [
+let must_watch_for_movie_only_s = [
     "Must Watch for Movie Only's",
     "Choose the genre of this must watch movie",
     saving_nature,
     getting_lost,
 ]
-var newer_gambling_show = [
+let newer_gambling_show = [
     "Newer Gambling Show",
     "We chose Kakegurui for you!",
     kakegurui,
 ]
-var no_harem = [
+let no_harem = [
     "No harem",
     "Choose a type of tag for the rom-com anime",
     adult_nerds,
@@ -1973,12 +1973,12 @@ var no_harem = [
     baseball,
     multiple_couples,
 ]
-var older_gambling_show = [
+let older_gambling_show = [
     "Older Gambling Show",
     "We chose Kaiji: Ultimate Survivor for you!",
     kaiji__ultimate_survivor,
 ]
-var other_good_ones = [
+let other_good_ones = [
     "Other Good Ones",
     "Choose a tag for these other older family friendly movies",
     engineer,
@@ -1989,43 +1989,43 @@ var other_good_ones = [
     cat_kingdom,
     country_roads,
 ]
-var overcoming_grief = [
+let overcoming_grief = [
     "Overcoming Grief",
     "Who causes the grief?",
     childhood_friend,
     young_pianist_loses_mother,
 ]
-var overpowered = [
+let overpowered = [
     "Overpowered",
     "We chose Overlord for you!",
     overlord,
 ]
-var racing_competition = [
+let racing_competition = [
     "Racing Competition",
     "We chose Redine for you!",
     redine,
 ]
-var rebellion = [
+let rebellion = [
     "Rebellion",
     "We chose Code Geass for you!",
     code_geass,
 ]
-var requires_patience = [
+let requires_patience = [
     "Requires Patience",
     "We chose Clannad for you!",
     clannad,
 ]
-var runaway_student = [
+let runaway_student = [
     "Runaway Student",
     "We chose Weathering With You for you!",
     weathering_with_you,
 ]
-var saving_the_world = [
+let saving_the_world = [
     "Saving the World",
     "We chose HELLO WORLD for you!",
     hello_world,
 ]
-var school = [
+let school = [
     "School",
     "Choose a type of tag for the school anime",
     horny_teens,
@@ -2034,28 +2034,28 @@ var school = [
     yare_yare___,
     horny_college_kids,
 ]
-var science = [
+let science = [
     "Science",
     "We chose Dr. Stone for you!",
     dr__stone,
 ]
-var shinkai_s_underrated_gems = [
+let shinkai_s_underrated_gems = [
     "Shinkai's Underrated Gems",
     "Which of his underrated gems?",
     alternate_postwar,
     family_friendly,
 ]
-var shoe_maker = [
+let shoe_maker = [
     "Shoe-Maker",
     "We chose The Garden of Words for you!",
     the_garden_of_words,
 ]
-var short_collection = [
+let short_collection = [
     "Short collection",
     "We chose 5 Centimeters per Second for you!",
     __centimeters_per_second,
 ]
-var short_seasons = [
+let short_seasons = [
     "Short Seasons",
     "What are you looking for?",
     evil_beings,
@@ -2064,73 +2064,73 @@ var short_seasons = [
     funny,
     pure_action,
 ]
-var smart_cute = [
+let smart_cute = [
     "Smart/Cute",
     "We chose Ascendance of a Bookworm for you!",
     ascendance_of_a_bookworm,
 ]
-var spectators_of_war = [
+let spectators_of_war = [
     "Spectators of War",
     "What type of story for these spectators are you looking for?",
     story_of_one_woman_in_war,
     story_of_two_children_in_war,
 ]
-var supernatural_slice_of_life = [
+let supernatural_slice_of_life = [
     "Supernatural Slice of Life",
     "We chose Bunny Girl Senpai for you!",
     bunny_girl_senpai,
 ]
-var talent_vs__hard_work = [
+let talent_vs__hard_work = [
     "Talent vs. Hard Work",
     "We chose The Pet Girl of Sakurasou for you!",
     the_pet_girl_of_sakurasou,
 ]
-var terrorists = [
+let terrorists = [
     "Terrorists",
     "We chose Terror In Resonance for you!",
     terror_in_resonance,
 ]
-var the_mecha_genre = [
+let the_mecha_genre = [
     "The Mecha Genre",
     "We chose Neon Genesis Evangelion for you!",
     neon_genesis_evangelion,
 ]
-var the_undead = [
+let the_undead = [
     "The Undead",
     "We chose Tokyo Ghoul for you!",
     tokyo_ghoul,
 ]
-var the_world_is_upside_down = [
+let the_world_is_upside_down = [
     "The World Is Upside Down",
     "We chose Patema Inverted for you!",
     patema_inverted,
 ]
-var time_loops = [
+let time_loops = [
     "Time Loops",
     "We chose The Girl Who Leapt Through Time for you!",
     the_girl_who_leapt_through_time,
 ]
-var university_students = [
+let university_students = [
     "University Students",
     "We chose The Night Is Short, Walk on Girl for you!",
     the_night_is_short__walk_on_girl,
 ]
-var unlikely_wingmen = [
+let unlikely_wingmen = [
     "Unlikely Wingmen",
     "We chose Toradora! for you!",
     toradora_,
 ]
-var vampires = [
+let vampires = [
     "Vampires",
     "We chose Shiki for you!",
     shiki,
 ]
-var wolves = [
+let wolves = [
     "Wolves",
     "We chose Wolf Children for you!",
     wolf_children,
 ]
-var work = [
+let work = [
     "Work",
     "Who's working?",
     teacher,
@@ -2138,17 +2138,17 @@ var work = [
     theme_park_director,
     mcdonald_s_manager,
 ]
-var you_mean_riding_waves_ = [
+let you_mean_riding_waves_ = [
     "You Mean Riding Waves?",
     "We chose Ride Your Wave for you!",
     ride_your_wave,
 ]
-var _d_furries = [
+let _d_furries = [
     "3D Furries",
     "We chose Beastars for you!",
     beastars,
 ]
-var amazing_new_art = [
+let amazing_new_art = [
     "Amazing New Art",
     "What artistic anime would you like to watch?",
     extremely_popular,
@@ -2156,24 +2156,24 @@ var amazing_new_art = [
     the_world_is_upside_down,
     university_students,
 ]
-var battle_royale = [
+let battle_royale = [
     "Battle Royale",
     "Who do you wanna Fortnite with?",
     battle_royale_with_tsundere,
     battle_royale_with_yandere,
 ]
-var battles = [
+let battles = [
     "Battles",
     "What type of battles in movies are you looking for?",
     spectators_of_war,
     actively_participating_in_fights,
 ]
-var can_t_miss = [
+let can_t_miss = [
     "Can't Miss",
     "We chose Fullmetal Alchemist: Brotherhood for you!",
     fullmetal_alchemist__brotherhood,
 ]
-var creatures = [
+let creatures = [
     "Creatures",
     "What creatures are involved?",
     aliens,
@@ -2181,30 +2181,30 @@ var creatures = [
     the_undead,
     demons,
 ]
-var cute_girls_doing_cute_things = [
+let cute_girls_doing_cute_things = [
     "Cute Girls Doing Cute Things",
     "Choose a type of CGDCT tag",
     cgdct_work,
     chillin_,
     club,
 ]
-var cyberpunk = [
+let cyberpunk = [
     "Cyberpunk",
     "We chose Psycho-Pass for you!",
     psycho_pass,
 ]
-var discovering_sexuality = [
+let discovering_sexuality = [
     "Discovering Sexuality",
     "We chose O Maidens in Your Savage Season for you!",
     o_maidens_in_your_savage_season,
 ]
-var fights = [
+let fights = [
     "Fights",
     "How long are the seasons?",
     long_seasons,
     short_seasons,
 ]
-var fun_ride = [
+let fun_ride = [
     "Fun Ride",
     "What type of fun ride?",
     you_mean_riding_waves_,
@@ -2213,19 +2213,19 @@ var fun_ride = [
     cyberpunk_action_oriented,
     homeless_people,
 ]
-var gambling = [
+let gambling = [
     "Gambling",
     "How dated is your gambling desire?",
     older_gambling_show,
     newer_gambling_show,
 ]
-var genre_breaking___defining = [
+let genre_breaking___defining = [
     "Genre-breaking & Defining",
     "Which genre did it break?",
     the_mecha_genre,
     the_magical_girls_genre,
 ]
-var intelligent_masterminds = [
+let intelligent_masterminds = [
     "Intelligent Masterminds",
     "You'd find intelligent masterminds in these kinds of anime:",
     escape,
@@ -2234,7 +2234,7 @@ var intelligent_masterminds = [
     doctor,
     rebellion,
 ]
-var isekai = [
+let isekai = [
     "Isekai",
     "Particular aspect?",
     love_hate,
@@ -2246,13 +2246,13 @@ var isekai = [
     framed,
     comedic,
 ]
-var lgbtq = [
+let lgbtq = [
     "LGBTQ",
     "Male or Female?",
     gay,
     lesbian,
 ]
-var made_by_that_one_popular_dude__makoto_shinkai_ = [
+let made_by_that_one_popular_dude__makoto_shinkai_ = [
     "Made by that One Popular Dude (Makoto Shinkai)",
     "Which one of Shinkai's works?",
     short_collection,
@@ -2261,51 +2261,51 @@ var made_by_that_one_popular_dude__makoto_shinkai_ = [
     runaway_student,
     shinkai_s_underrated_gems,
 ]
-var mecha_kaiju = [
+let mecha_kaiju = [
     "Mecha Kaiju",
     "We chose Darling in the Franxx for you!",
     darling_in_the_franxx,
 ]
-var medieval = [
+let medieval = [
     "Medieval",
     "We chose Berserk (1997) for you!",
     berserk_______,
 ]
-var murder_game = [
+let murder_game = [
     "Murder Game",
     "We chose Danganronpa for you!",
     danganronpa,
 ]
-var murder_mystery = [
+let murder_mystery = [
     "Murder Mystery",
     "We chose Erased for you!",
     erased,
 ]
-var mutant_powers = [
+let mutant_powers = [
     "Mutant Powers",
     "We chose Deadman Wonderland for you!",
     deadman_wonderland,
 ]
-var mystery = [
+let mystery = [
     "Mystery",
     "Any notable features?",
     contains_some_slap_stick_comedy,
     eye_patch,
 ]
-var no_romance = [
+let no_romance = [
     "No Romance",
     "Where does this comedy take place?",
     school,
     daily_life,
     work,
 ]
-var not_cgdct = [
+let not_cgdct = [
     "Not CGDCT",
     "Choose a type of tag for not CGDCT anime",
     family,
     friends,
 ]
-var not_isekai = [
+let not_isekai = [
     "Not Isekai",
     "What do you like?",
     science,
@@ -2313,13 +2313,13 @@ var not_isekai = [
     japanese_culture,
     jazz,
 ]
-var older_family_friendly_movies = [
+let older_family_friendly_movies = [
     "Older Family Friendly Movies",
     "What type of older family friendly movie?",
     must_watch_for_movie_only_s,
     other_good_ones,
 ]
-var popular = [
+let popular = [
     "Popular",
     "What gimmick do you like the best?",
     unlikely_wingmen,
@@ -2327,23 +2327,23 @@ var popular = [
     love_triangle,
     talent_vs__hard_work,
 ]
-var popular_witty_dialogue = [
+let popular_witty_dialogue = [
     "Popular Witty Dialogue",
     "Focus on which:",
     supernatural_slice_of_life,
     apparitions,
 ]
-var psychics = [
+let psychics = [
     "Psychics",
     "We chose Shinsekai yori for you!",
     shinsekai_yori,
 ]
-var psychological = [
+let psychological = [
     "Psychological",
     "We chose School Live for you!",
     school_live,
 ]
-var psychological_movies = [
+let psychological_movies = [
     "Psychological Movies",
     "What type of psychological movie?",
     idols,
@@ -2352,24 +2352,24 @@ var psychological_movies = [
     cybernetics,
     civil_unrest,
 ]
-var religion = [
+let religion = [
     "Religion",
     "We chose Devilman: Crybaby for you!",
     devilman__crybaby,
 ]
-var rom_com = [
+let rom_com = [
     "Rom-Com",
     "Are you fine with watching a rom-com with a harem?",
     harem,
     no_harem,
 ]
-var sports = [
+let sports = [
     "Sports",
     "New or old?",
     classic,
     modern,
 ]
-var strong_burning_onions = [
+let strong_burning_onions = [
     "Strong-burning Onions",
     "Which cause of sadness to explore?",
     effects_of_war,
@@ -2377,17 +2377,17 @@ var strong_burning_onions = [
     mental_health,
     requires_patience,
 ]
-var the_magical_girls_genre = [
+let the_magical_girls_genre = [
     "The Magical Girls Genre",
     "We chose Puella Magi Madoka Magica for you!",
     puella_magi_madoka_magica,
 ]
-var time_travel = [
+let time_travel = [
     "Time Travel",
     "We chose Steins;Gate for you!",
     steins_gate,
 ]
-var weak_burning_onions = [
+let weak_burning_onions = [
     "Weak-burning Onions",
     "What's the drama going to revolve about?",
     about_music,
@@ -2395,7 +2395,7 @@ var weak_burning_onions = [
     drama_action,
     art,
 ]
-var well_respected = [
+let well_respected = [
     "Well Respected",
     "What type of well respected anime?",
     cats,
@@ -2407,32 +2407,32 @@ var well_respected = [
     japanese_tale,
     time_loops,
 ]
-var action = [
+let action = [
     "Action",
     "What kind of action?",
     fights,
     sports,
 ]
-var adventure = [
+let adventure = [
     "Adventure",
     "Taken into another world?",
     can_t_miss,
     isekai,
     not_isekai,
 ]
-var comedy = [
+let comedy = [
     "Comedy",
     "Would you like romance elements in the comedy anime?",
     rom_com,
     no_romance,
 ]
-var drama = [
+let drama = [
     "Drama",
     "What focus on drama do you like?",
     strong_burning_onions,
     weak_burning_onions,
 ]
-var horror = [
+let horror = [
     "Horror",
     "What kind of scary?",
     creatures,
@@ -2444,7 +2444,7 @@ var horror = [
     psychological,
     medieval,
 ]
-var movies = [
+let movies = [
     "Movies",
     "Most defining feature of this anime.",
     amazing_new_art,
@@ -2455,7 +2455,7 @@ var movies = [
     battles,
     older_family_friendly_movies,
 ]
-var romance = [
+let romance = [
     "Romance",
     "Choose a type of romance tag",
     popular_witty_dialogue,
@@ -2466,7 +2466,7 @@ var romance = [
     mecha_kaiju,
     lgbtq,
 ]
-var thriller = [
+let thriller = [
     "Thriller",
     "We got quite a few options here",
     gambling,
@@ -2477,13 +2477,13 @@ var thriller = [
     genre_breaking___defining,
     intelligent_masterminds,
 ]
-var wholesome = [
+let wholesome = [
     "Wholesome",
     "Choose a type of wholesome tag",
     cute_girls_doing_cute_things,
     not_cgdct,
 ]
-var shows = [
+let shows = [
     "Shows",
     "Select a genre",
     action,
@@ -2495,13 +2495,13 @@ var shows = [
     comedy,
     wholesome,
 ]
-var start = [
+let start = [
     "Start",
     "Are you looking at shows or movies?",
     shows,
     movies,
 ]
-var map = new Map();
+let map = new Map();
 map.set("Go scroll down to learn more about 5 Centimeters per Second", __centimeters_per_second);
 map.set("5 Centimeters per Second", __centimeters_per_second);
 map.set("Go scroll down to learn more about A Place Further than the Universe", a_place_further_than_the_universe);
