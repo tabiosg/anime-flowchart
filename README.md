@@ -20,7 +20,7 @@ After filling the CSV file, a Python script called [`convert.cpp`](src/convert/c
 ---
 
 ## Details
-The website is not live. Most of my work was done in [`index.php`](index.php), [`about.php`](about.php), [`src/includes/`](src/includes/), [`src/convert/`](src/convert), [`src/js/`](src/js/), and [`style.css`](src/css/style.css).
+The website is live and can be found [here](https://tabiosg.github.io/anime-flowchart/). Most of my work was done in [`index.php`](index.php), [`about.php`](about.php), [`src/includes/`](src/includes/), [`src/convert/`](src/convert), [`src/js/`](src/js/), and [`style.css`](src/css/style.css).
 
 ---
 
