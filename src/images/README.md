@@ -15,7 +15,7 @@ This may be picked up again in the future.
 
 ---
 
-## [`background.png`](background/background.png)
+## [`background.jpg`](background/background.jpg)
 [This](https://unsplash.com/photos/hcThRGyawzk/info) is the background image being used nade by Evie S.
 
 ---
