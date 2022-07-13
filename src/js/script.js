@@ -12,10 +12,8 @@ let choiceButtonArray = [
     document.getElementById("choice-six"),
     document.getElementById("choice-seven")
 ]
-let prompt = document.getElementById("prompt-square");
+let promptSquare = document.getElementById("prompt-square");
 const reloadButton = document.querySelector("#restart-button");
-
-
 reloadButton.addEventListener("click", function(){location.reload()}, false);
 
 /*Handle everything going back here*/
@@ -28,8 +26,8 @@ goBackButton.onclick = function () {
     if (historyStack.length == 0) {
         return;
     }
-    let rewindToThisPrompt = historyStack.pop();
-    prompt.innerHTML = rewindToThisPrompt;
+    let previousPrompt = historyStack.pop();
+    promptSquare.innerHTML = previousPrompt;
     SetUpButtons();
 };
 
@@ -39,7 +37,7 @@ function SetUpButtons() {
     for (let i = 0; i < 8; ++i) {
         choiceButtonArray[i].style.display = "none";
     }
-    let promptQuestion = prompt.innerHTML;
+    let promptQuestion = promptSquare.innerHTML;
     const theArray = map.get(promptQuestion);
 
     if (theArray.length == 3) return;
@@ -62,13 +60,13 @@ var changeButtonArray = Array.apply(null, Array(8)).map(function () {})
 for (let i = 0; i < changeButtonArray.length; ++i) {
     changeButtonArray[i] = function() {
         const buttonComponentPressed = choiceButtonArray[i];
-        const answerSelectedString = buttonComponentPressed.innerHTML;
-        const theArrayNext = map.get(answerSelectedString);
-        const changePrompt = theArrayNext[1];
-        historyStack.push(prompt.innerHTML);
-        prompt.innerHTML = theArrayNext[0];
+        const selectedAnswer = buttonComponentPressed.innerHTML;
+        const theArrayNext = map.get(selectedAnswer);
+        const newPrompt = theArrayNext[1];
+        historyStack.push(promptSquare.innerHTML);
+        promptSquare.innerHTML = theArrayNext[0];
         SetUpButtons();
-        prompt.innerHTML = changePrompt;
+        promptSquare.innerHTML = newPrompt;
     }
 }
 
