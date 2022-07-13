@@ -59,11 +59,14 @@ SetUpButtons();
 
 var changeButtonArray = Array.apply(null, Array(8)).map(function () {})
 
-for (var i = 0; i < changeButtonArray.length; ++i) {
+for (let i = 0; i < changeButtonArray.length; ++i) {
     changeButtonArray[i] = function() {
-        console.log("below is i")
+        console.log("this is i")
         console.log(i)
-        var buttonComponentPressed = choiceButtonArray[i];
+        let j = i;
+        console.log("this is j")
+        console.log(j)
+        var buttonComponentPressed = choiceButtonArray[j];
         var answerSelectedString = buttonComponentPressed.innerHTML;
         var theArrayNext = map.get(answerSelectedString);
         var changePrompt = theArrayNext[1];
