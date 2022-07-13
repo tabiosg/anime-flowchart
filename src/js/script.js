@@ -62,7 +62,7 @@ SetUpButtons();
 /*Buttons*/
 var changeButtonArray = Array.apply(null, Array(8)).map(function () {})
 
-for (var i = 0; i < changeButtonArray.length(); ++i) {
+for (var i = 0; i < changeButtonArray.length; ++i) {
     changeButtonArray[i] = function() {
         var button_component_pressed = choiceButtonArray[i];
         var answer_selected_string = button_component_pressed.innerHTML;
@@ -75,7 +75,7 @@ for (var i = 0; i < changeButtonArray.length(); ++i) {
     }
 }
 
-for (var i = 0; i < choiceButtonArray.length(); ++i) {
+for (var i = 0; i < choiceButtonArray.length; ++i) {
     choiceButtonArray[i].onclick = function () { changeButtonArray[i](); };
 }
 
