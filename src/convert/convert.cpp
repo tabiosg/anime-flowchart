@@ -68,14 +68,14 @@ public:
 		std::ofstream fout("../js/raw_data.js");
 
 		std::ostringstream ending;
-		ending << "var map = new Map();" << std::endl;
+		ending << "let map = new Map();" << std::endl;
 
 		for (int imp = 14; imp >= 0; --imp) {
 			std::vector<std::map<std::string, std::string>> specificSet = flowchartNodeList[imp];
 			for (auto &entry : specificSet) {
 				std::ostringstream singleNodeStream;
 
-				singleNodeStream << "var " << formatEntry(entry["subject_str"]) << " = [" << std::endl;
+				singleNodeStream << "let " << formatEntry(entry["subject_str"]) << " = [" << std::endl;
 				singleNodeStream << "    \"" << entry["subject_str"] << "\"," << std::endl;
 				if (entry["opt_1"] == "") {
 					entry["q_prompt"] = "Go scroll down to learn more about " + entry["subject_str"];
