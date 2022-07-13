@@ -3,23 +3,19 @@ import { map } from './raw_data.js';
 /*Store commonly used variables*/
 
 var backButton = document.getElementById("previous-question-button");
-
-
-var choice_button_array = [
+var choiceButtonArray = [
+    document.getElementById("choice-zero"),
     document.getElementById("choice-one"),
     document.getElementById("choice-two"),
     document.getElementById("choice-three"),
     document.getElementById("choice-four"),
     document.getElementById("choice-five"),
     document.getElementById("choice-six"),
-    document.getElementById("choice-seven"),
-    document.getElementById("choice-eight")
+    document.getElementById("choice-seven")
 ]
-
 var prompt = document.getElementById("prompt-square");
 
 /*Refresh button*/
-
 const reloadButton = document.querySelector("#restart-button");
 function reload() {
     reload = location.reload();
@@ -28,13 +24,13 @@ reloadButton.addEventListener("click", reload, false);
 
 /*Handle everything going back here*/
 
-var history = [];
+var historyStack = [];
 
 function go_back() {
-    if (history.length == 0) {
+    if (historyStack.length == 0) {
         return;
     }
-    var rewind_to_this_prompt = history.pop();
+    var rewind_to_this_prompt = historyStack.pop();
     prompt.innerHTML = rewind_to_this_prompt;
     SetUpButtons();
 }
@@ -45,18 +41,18 @@ backButton.onclick = function () { go_back(); };
 
 function SetUpButtons() {
     for (var i = 0; i < 8; ++i) {
-        choice_button_array[i].style.display = "none";
+        choiceButtonArray[i].style.display = "none";
     }
     var prompt_question = prompt.innerHTML;
-    var the_array = map.get(prompt_question);
+    var theArray = map.get(prompt_question);
 
-    if (the_array.length == 3) return;
+    if (theArray.length == 3) return;
 
-    for (var i = 2; i < the_array.length; ++i) {
-        var choice_i_array = the_array[i];
-        var choice_i_string = choice_i_array[0];
-        choice_button_array[i - 2].innerHTML = choice_i_string;
-        choice_button_array[i - 2].style.display = "inline-block";
+    for (var i = 2; i < theArray.length; ++i) {
+        var choiceArrayI = theArray[i];
+        var choice_i_string = choiceArrayI[0];
+        choiceButtonArray[i - 2].innerHTML = choice_i_string;
+        choiceButtonArray[i - 2].style.display = "inline-block";
     }
 }
 
@@ -64,22 +60,22 @@ function SetUpButtons() {
 SetUpButtons();
 
 /*Buttons*/
-var change_button_array = Array.apply(null, Array(8)).map(function () {})
+var changeButtonArray = Array.apply(null, Array(8)).map(function () {})
 
-for (var i = 0; i < change_button_array.size(); ++i) {
-    change_button_array[i] = function() {
-        var button_component_pressed = choice_button_array[i];
+for (var i = 0; i < changeButtonArray.length(); ++i) {
+    changeButtonArray[i] = function() {
+        var button_component_pressed = choiceButtonArray[i];
         var answer_selected_string = button_component_pressed.innerHTML;
-        var the_array_next = map.get(answer_selected_string);
-        var change_prompt = the_array_next[1];
-        history.push(prompt.innerHTML);
-        prompt.innerHTML = the_array_next[0];
+        var theArrayNext = map.get(answer_selected_string);
+        var change_prompt = theArrayNext[1];
+        historyStack.push(prompt.innerHTML);
+        prompt.innerHTML = theArrayNext[0];
         SetUpButtons();
         prompt.innerHTML = change_prompt;
     }
 }
 
-for (var i = 0; i < choice_button_array.size(); ++i) {
-    choice_button_array[i].onclick = function () { change_button_array[i](); };
+for (var i = 0; i < choiceButtonArray.size(); ++i) {
+    choiceButtonArray[i].onclick = function () { changeButtonArray[i](); };
 }
 
